@@ -1,0 +1,72 @@
+{
+  "name": "Breeze Dark",
+  "dark": true,
+  "author": "KDE Community",
+  "editorScheme": "/Breeze_Dark.xml",
+  "colors": {
+    "paperWhite": "#fcfcfc",
+    "cardboardGray": "#eff0f1",
+    "iconGray": "#4d4d4d",
+    "charcoalGray": "#31363b",
+    "shadeBlack": "#232629",
+    "plasmaBlue": "#3daee9",
+
+    "iconRed": "#da4453",
+    "dangerRed": "#ed1515",
+    "iconOrange": "#f47750",
+    "bewareOrange": "#f67400",
+    "iconYellow": "#fdbc4b",
+
+    "sunbeamYellow": "#c9ce3b",
+    "mellowTurquoise": "#1cdc9a",
+    "iconGreen": "#2ecc71",
+    "verdantGreen": "#11d116",
+    "iconBlue": "#1d99f3",
+
+    "alternateGray": "#bdc3c7",
+    "lazyGray": "#afb0b3",
+    "coastalFog": "#7f8c8d",
+    "burntCharcoal": "#3b4045",
+    "hoverBlue": "#93cee9",
+    "hyperBlue": "#3daee6",
+    "decoBlue": "#1e92ff",
+    "abyssBlue": "#2980b9",
+    "nobleFir": "#27ae60",
+    "pimpinella": "#e74c3c"
+  },
+  "ui": {
+    "*": {
+      "background": "charcoalGray",
+      "foreground": "cardboardGray",
+
+      "infoForeground": "bewareOrange",
+
+      "selectionBackground": "plasmaBlue",
+      "selectionForeground": "cardboardGray",
+      "selectionForegroundInactive": "cardboardGray",
+      "selectionInactiveForeground": "cardboardGray",
+
+      "disabledBackground": "iconGray",
+      "inactiveBackground": "iconGray",
+
+      "disabledForeground": "alternateGray",
+      "disabledText": "alternateGray",
+      "inactiveForeground": "alternateGray",
+
+      "acceleratorForeground": "cardboardGray",
+      "acceleratorSelectionForeground": "cardboardGray",
+
+      "errorForeground": "iconRed",
+
+      "borderColor": "iconGray",
+      "disabledBorderColor": "alternateGray",
+      "focusColor": "plasmaBlue",
+      "focusedBorderColor": "plasmaBlue",
+      "hoverBorderColor": "hoverBlue",
+      "pressedBorderColor": "plasmaBlue",
+
+      "separatorColor": "iconGray",
+      "lineSeparatorColor": "iconGray"
+    }
+  }
+}
