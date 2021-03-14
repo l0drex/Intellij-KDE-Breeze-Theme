@@ -42,7 +42,7 @@
       "disabledForeground": "coastalFog",
       "inactiveForeground": "coastalFog",
       "successForeground": "nobleFir",
-      "infoForeground": "decoBlue",
+      "infoForeground": "iconYellow",
       "warningForeground": "bewareOrange",
       "errorForeground": "dangerRed",
 
@@ -68,7 +68,7 @@
     },
 
     "ActionButton": {
-      "hoverBackground": "paperWhite",
+      "hoverBackground": "hoverBlue",
       "pressedBackground": "plasmaBlue"
     },
 
@@ -80,10 +80,11 @@
       "focusedBorderColor": "plasmaBlue",
 
       "default": {
-        "startBackground": "#ffffff",
-        "endBackground": "paperWhite",
-        "startBorderColor": "lazyGray",
-        "endBorderColor": "lazyGray",
+        "foreground": "paperWhite",
+        "startBackground": "plasmaBlue",
+        "startBorderColor": "plasmaBlue",
+        "endBackground": "#3498db",
+        "endBorderColor": "#3498db",
         "focusedBorderColor": "plasmaBlue",
         "focusColor": "plasmaBlue"
       }
@@ -132,7 +133,7 @@
       "Yellow": "iconYellow",
       "Green": "iconGreen",
       "Blue": "iconBlue",
-      "Violet": "#666184",
+      "Violet": "#8e44ad",
       "Orange": "iconOrange",
       "Rose": "iconRed"
     },
@@ -170,6 +171,7 @@
       "Objects.Yellow": "#fdbc4b",
       "Objects.Green": "#2ecc71",
       "Objects.Blue": "#1d99f3",
+      "Objects.Purple": "#8e44ad",
       "Objects.BlackText": "#232629",
 
       "Checkbox.Background.Default": "#fcfcfc",
@@ -178,7 +180,7 @@
       "Checkbox.Foreground.Selected": "#fcfcfc",
       "Checkbox.Border.Selected": "#3DAEE9",
       "Checkbox.Background.Disabled": "#bdc3c7",
-      "Checkbox.Foreground.Disabled": "#4d4d4d",
+      "Checkbox.Foreground.Disabled": "#7f8c8d",
       "Checkbox.Border.Disabled": "#7f8c8d"
     }
   }
