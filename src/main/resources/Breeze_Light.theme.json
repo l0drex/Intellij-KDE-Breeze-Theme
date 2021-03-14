@@ -34,23 +34,152 @@
     "nobleFir": "#27ae60",
     "pimpinella": "#e74c3c"
   },
+
   "ui": {
     "*": {
+      "background": "cardboardGray",
+      "foreground": "shadeBlack",
+      "disabledForeground": "coastalFog",
+      "inactiveForeground": "coastalFog",
+      "successForeground": "nobleFir",
+      "infoForeground": "decoBlue",
+      "warningForeground": "bewareOrange",
+      "errorForeground": "dangerRed",
+
       "selectionBackground":  "plasmaBlue",
-      "selectionForegroundInactive": "#8ecbe9",
-      "selectionInactiveForeground": "#8ecbe9",
+      "selectionForeground": "paperWhite",
+      "selectionForegroundInactive": "cardboardGray",
+      "selectionInactiveForeground": "cardboardGray",
 
-      "disabledForeground": "#888786",
-      "disabledText": "#888786",
-      "inactiveForeground": "#888786",
-
-      "infoForeground": "#b08000",
-      "modifiedItemForeground": "plasmaBlue",
+      "disabledText": "coastalFog",
 
       "acceleratorSelectionForeground": "cardboardGray",
+      "modifiedItemForeground": "plasmaBlue",
 
-      "separatorColor": "#dad9d8",
-      "separatorForeground": "#dad9d8"
+      "borderColor": "lazyGray",
+      "focusedBorderColor": "plasmaBlue",
+      "hoverBorderColor": "plasmaBlue",
+      "pressedBorderColor": "plasmaBlue",
+      "disabledBorderColor": "coastalFog",
+
+      "separatorColor": "lazyGray",
+      "separatorForeground": "lazyGray",
+      "lineSeparatorColor": "lazyGray"
+    },
+
+    "ActionButton": {
+      "hoverBackground": "paperWhite",
+      "pressedBackground": "plasmaBlue"
+    },
+
+    "Button": {
+      "startBackground": "#ffffff",
+      "endBackground": "paperWhite",
+      "startBorderColor": "lazyGray",
+      "endBorderColor": "lazyGray",
+      "focusedBorderColor": "plasmaBlue",
+
+      "default": {
+        "startBackground": "#ffffff",
+        "endBackground": "paperWhite",
+        "startBorderColor": "lazyGray",
+        "endBorderColor": "lazyGray",
+        "focusedBorderColor": "plasmaBlue",
+        "focusColor": "plasmaBlue"
+      }
+    },
+
+    "Borders": {
+      "color": "lazyGray",
+      "ContrastBorderColor": "lazyGray"
+    },
+
+    "ComboBox": {
+      "modifiedItemForeground": "plasmaBlue",
+      "background": "paperWhite",
+      "nonEditableBackground": "cardboardGray",
+      "ArrowButton": {
+        "iconColor": "iconGray",
+        "disabledIconColor": "coastalFog",
+        "background": "paperWhite",
+        "nonEditableBackground": "cardboardGray"
+      }
+    },
+
+    "CompletionPopup": {
+      "matchForeground": "paperWhite"
+    },
+
+    "Component": {
+      "errorFocusColor": "dangerRed",
+      "warningFocusColor": "bewareOrange",
+      "iconColor": "iconGray"
+    },
+
+    "Editor": {
+      "background": "paperWhite",
+      "shortcutForeground": "abyssBlue"
+    },
+
+    "EditorTabs": {
+      "background": "cardboardGray",
+      "underlinedTabBackground": "alternateGray",
+      "hoverBackground": "hoverBlue",
+      "underlineColor": "plasmaBlue"
+    },
+
+    "FileColor": {
+      "Yellow": "iconYellow",
+      "Green": "iconGreen",
+      "Blue": "iconBlue",
+      "Violet": "#666184",
+      "Orange": "iconOrange",
+      "Rose": "iconRed"
+    },
+
+    "Link": {
+      "activeForeground": "abyssBlue",
+      "hoverForeground": "abyssBlue",
+      "pressedForeground": "abyssBlue",
+      "visitedForeground": "coastalFog",
+      "secondaryForeground": "iconBlue"
+    },
+
+    "MemoryIndicator": {
+      "usedBackground": "plasmaBlue",
+      "allocatedBackground": "lazyGray"
+    },
+
+    "ToolTip": {
+      "background": "paperWhite"
+    }
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.Grey": "#4d4d4d",
+      "Actions.Red": "#da4453",
+      "Actions.Yellow": "#fdbc4b",
+      "Actions.Green": "#2ecc71",
+      "Actions.Blue": "#1d99f3",
+      "Actions.GreyInline.Dark": "#4d4d4d",
+
+      "Objects.Grey": "#4d4d4dff",
+      "Objects.RedStatus": "#ed1515",
+      "Objects.Red": "#da4453",
+      "Objects.Yellow": "#fdbc4b",
+      "Objects.Green": "#2ecc71",
+      "Objects.Blue": "#1d99f3",
+      "Objects.BlackText": "#232629",
+
+      "Checkbox.Background.Default": "#fcfcfc",
+      "Checkbox.Border.Default": "#4d4d4d",
+      "Checkbox.Background.Selected": "#3DAEE9",
+      "Checkbox.Foreground.Selected": "#fcfcfc",
+      "Checkbox.Border.Selected": "#3DAEE9",
+      "Checkbox.Background.Disabled": "#bdc3c7",
+      "Checkbox.Foreground.Disabled": "#4d4d4d",
+      "Checkbox.Border.Disabled": "#7f8c8d"
     }
   }
 }
