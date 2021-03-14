@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>com.github.l0drex.intellijkdebreezetheme</id>
-    <name>Intellij-KDE-Breeze-Theme</name>
-    <vendor>l0drex</vendor>
+    <name>KDE Breeze Theme</name>
+    <vendor email="hoffmann_lorenz@protonmail.com" url="https://github.com/l0drex">Lorenz Hoffmann</vendor>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
