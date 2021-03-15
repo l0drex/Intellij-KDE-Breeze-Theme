@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/test.xml",
+  "ui": {
+    "*": {
+      "background": "#000000"
+    },
+
+    "Panel.background": "#333333"
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default": "#00ff00",
+      "Checkbox.Background.Default.Dark": "#00ff00",
+      "Checkbox.Background.Selected": "#ff00ff",
+      "Checkbox.Background.Selected.Dark": "#ff00ff"
+    }
+  }
+}
