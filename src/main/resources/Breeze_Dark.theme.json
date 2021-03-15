@@ -37,36 +37,38 @@
 
   "ui": {
     "*": {
-      "background": "#2a2e32",
+      "background": "charcoalGray",
+      "inactiveBackground": "#2a2e32",
+      "disabledBackground": "#2a2e32",
       "foreground": "cardboardGray",
       "disabledForeground": "coastalFog",
-      "inactiveBackground": "#2f3439",
       "inactiveForeground": "coastalFog",
+      "disabledText": "coastalFog",
 
       "successForeground": "nobleFir",
       "infoForeground": "iconYellow",
       "warningForeground": "bewareOrange",
-      "errorForeground": "dangerRed",
+      "errorForeground": "iconRed",
 
       "selectionBackground":  "plasmaBlue",
       "selectionForeground": "paperWhite",
-      "selectionForegroundInactive": "cardboardGray",
-      "selectionInactiveForeground": "cardboardGray",
+      "selectionBackgroundInactive": "iconGray",
+      "selectionForegroundInactive": "alternateGray",
+      "selectionInactiveBackground": "iconGray",
+      "selectionInactiveForeground": "alternateGray",
 
-      "disabledText": "coastalFog",
-
-      "acceleratorSelectionForeground": "cardboardGray",
+      "acceleratorSelectionForeground": "paperWhite",
       "modifiedItemForeground": "plasmaBlue",
 
-      "borderColor": "coastalFog",
       "focusedBorderColor": "plasmaBlue",
       "hoverBorderColor": "plasmaBlue",
       "pressedBorderColor": "plasmaBlue",
       "disabledBorderColor": "iconGray",
 
-      "separatorColor": "#64686b",
-      "separatorForeground": "#64686b",
-      "lineSeparatorColor": "#64686b"
+      "borderColor": "#5f6265",
+      "separatorColor": "#5f6265",
+      "separatorForeground": "#5f6265",
+      "lineSeparatorColor": "#5f6265"
     },
 
     "ActionButton": {
@@ -82,66 +84,51 @@
       "focusedBorderColor": "plasmaBlue",
 
       "default": {
+        "foreground": "paperWhite",
         "startBackground": "plasmaBlue",
+        "endBackground": "hyperBlue",
         "startBorderColor": "plasmaBlue",
-        "endBackground": "#3498db",
-        "endBorderColor": "#3498db",
+        "endBorderColor": "hyperBlue",
         "focusedBorderColor": "plasmaBlue",
         "focusColor": "plasmaBlue"
       }
     },
 
     "Borders": {
-      "color": "#64686b",
-      "ContrastBorderColor": "#64686b"
+      "color": "#5f6265",
+      "ContrastBorderColor": "#5f6265"
     },
 
     "ComboBox": {
-      "background": "charcoalGray",
-      "nonEditableBackground": "charcaolGray",
       "modifiedItemForeground": "plasmaBlue",
-      "foreground": "cardboardGray",
-      "disabledForeground": "iconGray",
+      "nonEditableBackground": "charcoalGray",
+      "background": "shadeBlack",
+      "selectionBackground": "plasmaBlue",
       "ArrowButton": {
         "iconColor": "cardboardGray",
         "disabledIconColor": "iconGray",
-        "background": "charcoalGray",
+        "background": "shadeBlack",
         "nonEditableBackground": "charcoalGray"
       }
     },
 
-    "CompletionPopup": {
-      "matchForeground": "shadeBlack"
-    },
-
     "Component": {
-      "errorFocusColor": "dangerRed",
+      "errorFocusColor": "iconRed",
       "warningFocusColor": "bewareOrange",
       "iconColor": "cardboardGray"
     },
 
     "DefaultTabs": {
+      "background": "#26292C",
+      "underlinedTabBackground": "#2A2E32",
       "underlineColor": "plasmaBlue",
       "inactiveUnderlineColor": "iconGray",
-      "hoverBackground": "#34495e"
-    },
-
-    "DragAndDrop": {
-      "areaForeground": "cardboardGray",
-      "areaBackground": "shadeBlack",
-      "areaBorderColor": "plasmaBlue"
+      "hoverBackground": "#2E4857"
     },
 
     "Editor": {
-      "background": "shadeBlack",
+      "background": "#1b1e20",
       "shortcutForeground": "abyssBlue"
-    },
-
-    "EditorTabs": {
-      "background": "charcoalGray",
-      "underlinedTabBackground": "charcoalGray",
-      "hoverBackground": "#34495e",
-      "underlineColor": "plasmaBlue"
     },
 
     "FileColor": {
@@ -153,7 +140,10 @@
       "Rose": "iconRed"
     },
 
-    "InplaceRefactoringPopup.borderColor": "plasmaBlue",
+    "Label": {
+      "infoForeground": "iconGray",
+      "errorForeground": "dangerRed"
+    },
 
     "Link": {
       "activeForeground": "abyssBlue",
@@ -170,15 +160,15 @@
 
     "Notification": {
       "background": "charcoalGray",
-
       "errorForeground": "dangerRed",
 
-      "MoreButton.innerBorderColor": "shadeBlack",
-
       "ToolWindow": {
-        "informativeForeground": "iconYellow",
-        "warningForeground": "bewareOrange",
-        "errorForeground": "dangerRed"
+        "informativeForeground": "charcoalGray",
+        "informativeBackground": "iconGreen",
+        "warningForeground": "shadeBlack",
+        "warningBackground": "bewareOrange",
+        "errorForeground": "cardboardGray",
+        "errorBackground": "dangerRed"
       }
     },
 
@@ -209,10 +199,12 @@
       }
     },
 
-    "Panel.background": "#1b1e20",
-
     "ProgressBar": {
-      "progressColor": "plasmaBlue"
+      "progressColor": "plasmaBlue",
+      "indeterminateStartColor": "plasmaBlue",
+      "indeterminateEndColor": "hoverBlue",
+      "failedColor": "dangerRed",
+      "passedColor": "iconGreen"
     },
 
     "ScrollBar": {
@@ -226,14 +218,15 @@
       "trackColor": "iconGray"
     },
 
-    "ToolWindow": {
-      "Header": {
-        "background": "#2a2e32"
-      },
-      "HeaderTab": {
-        "underlinedTabBackground": "plasmaBlue",
-        "hoverBackground": "#34495e"
-      }
+    "TabbedPane": {
+      "background": "#26292D",
+      "underlineColor": "plasmaBlue",
+      "disabledUnderlineColor": "iconGray"
+    },
+
+    "TextField": {
+      "background": "shadeBlack",
+      "selectionBackground": "plasmaBlue"
     },
 
     "ToolTip": {
@@ -244,11 +237,11 @@
   "icons": {
     "ColorPalette": {
       "Actions.Grey": "#eff0f1",
+      "Actions.GreyInline.Dark": "#eff0f1",
       "Actions.Red": "#da4453",
       "Actions.Yellow": "#fdbc4b",
       "Actions.Green": "#2ecc71",
       "Actions.Blue": "#1d99f3",
-      "Actions.GreyInline.Dark": "#4d4d4d",
 
       "Objects.Grey": "#eff0f1",
       "Objects.RedStatus": "#ed1515",
