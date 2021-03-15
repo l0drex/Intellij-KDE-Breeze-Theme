@@ -102,13 +102,13 @@
 
     "ComboBox": {
       "modifiedItemForeground": "plasmaBlue",
-      "nonEditableBackground": "#e0dfde",
+      "nonEditableBackground": "cardboardGray",
       "background": "paperWhite",
       "selectionBackground": "plasmaBlue",
       "ArrowButton": {
         "iconColor": "charcoalGray",
         "disabledIconColor": "coastalFog",
-        "background": "#e0dfde",
+        "background": "paperWhite",
         "nonEditableBackground": "cardboardGray"
       }
     },
@@ -128,7 +128,7 @@
     },
 
     "Editor": {
-      "background": "cardboardGray",
+      "background": "#bdc3c7",
       "shortcutForeground": "#0057ae"
     },
 
