@@ -38,9 +38,10 @@
   "ui": {
     "*": {
       "background": "cardboardGray",
-      "foreground": "shadeBlack",
+      "foreground": "charcoalGray",
       "disabledForeground": "coastalFog",
       "inactiveForeground": "coastalFog",
+      "disabledText": "coastalFog",
       "successForeground": "nobleFir",
       "infoForeground": "iconYellow",
       "warningForeground": "bewareOrange",
@@ -51,17 +52,16 @@
       "selectionForegroundInactive": "cardboardGray",
       "selectionInactiveForeground": "cardboardGray",
 
-      "disabledText": "coastalFog",
 
       "acceleratorSelectionForeground": "cardboardGray",
       "modifiedItemForeground": "plasmaBlue",
 
-      "borderColor": "lazyGray",
       "focusedBorderColor": "plasmaBlue",
       "hoverBorderColor": "plasmaBlue",
       "pressedBorderColor": "plasmaBlue",
       "disabledBorderColor": "coastalFog",
 
+      "borderColor": "lazyGray",
       "separatorColor": "lazyGray",
       "separatorForeground": "lazyGray",
       "lineSeparatorColor": "lazyGray"
@@ -82,9 +82,9 @@
       "default": {
         "foreground": "paperWhite",
         "startBackground": "plasmaBlue",
+        "endBackground": "hyperBlue",
         "startBorderColor": "plasmaBlue",
-        "endBackground": "#3498db",
-        "endBorderColor": "#3498db",
+        "endBorderColor": "hyperBlue",
         "focusedBorderColor": "plasmaBlue",
         "focusColor": "plasmaBlue"
       }
@@ -99,6 +99,7 @@
       "modifiedItemForeground": "plasmaBlue",
       "background": "paperWhite",
       "nonEditableBackground": "cardboardGray",
+      "selectionBackground": "plasmaBlue",
       "ArrowButton": {
         "iconColor": "iconGray",
         "disabledIconColor": "coastalFog",
@@ -117,14 +118,26 @@
       "iconColor": "iconGray"
     },
 
+    "DefaultTabs": {
+      "underlineColor": "plasmaBlue",
+      "inactiveUnderlineColor": "coastalFog",
+      "hoverBackground": "hoverBlue"
+    },
+
+    "DragAndDrop": {
+      "areaForeground": "charcoalGray",
+      "areaBackground": "paperWhite",
+      "areaBorderColor": "plasmaBlue"
+    },
+
     "Editor": {
       "background": "paperWhite",
       "shortcutForeground": "abyssBlue"
     },
 
     "EditorTabs": {
-      "background": "cardboardGray",
-      "underlinedTabBackground": "alternateGray",
+      "background": "#dad9d8",
+      "underlinedTabBackground": "cardboardGray",
       "hoverBackground": "hoverBlue",
       "underlineColor": "plasmaBlue"
     },
@@ -139,17 +152,86 @@
     },
 
     "Link": {
-      "activeForeground": "abyssBlue",
-      "hoverForeground": "abyssBlue",
-      "pressedForeground": "abyssBlue",
-      "visitedForeground": "coastalFog",
-      "secondaryForeground": "iconBlue"
+      "activeForeground": "#0057ae",
+      "hoverForeground": "#0057ae",
+      "pressedForeground": "#0057ae",
+      "visitedForeground": "#452886",
+      "secondaryForeground": "abyssBlue"
     },
 
     "MemoryIndicator": {
       "usedBackground": "plasmaBlue",
       "allocatedBackground": "lazyGray"
     },
+
+    "Notification": {
+      "background": "cardboardGray",
+
+      "errorForeground": "dangerRed",
+
+      "MoreButton.innerBorderColor": "paperWhite",
+
+      "ToolWindow": {
+        "informativeForeground": "iconYellow",
+        "warningForeground": "bewareOrange",
+        "errorForeground": "dangerRed"
+      }
+    },
+
+    "ParameterInfo": {
+      "background": "cardboardGray",
+      "foreground": "charcoalGray"
+    },
+
+    "Plugins": {
+      "Tab": {
+        "selectedForeground": "paperWhite",
+        "selectedBackground": "plasmaBlue",
+        "hoverBackground": "hoverBlue"
+      },
+
+      "SearchField.background": "paperWhite",
+      "SectionHeader.background": "cardboardGray",
+      "tagBackground": "cardboardGray",
+      "tagForeground": "charcoalGray",
+
+      "Button": {
+        "installForeground": "charcoalGray",
+        "installBorderColor": "lazyGray",
+        "installFillForeground": "paperWhite",
+        "installBackground": "plasmaBlue",
+        "updateForeground": "charcoalGray",
+        "updateBackground": "cardboardGray"
+      }
+    },
+
+    "Panel.background": "paperWhite",
+
+    "ProgressBar": {
+      "progressColor": "plasmaBlue"
+    },
+
+    "ScrollBar": {
+      "Transparent": {
+        "thumbColor": "alternateGray",
+        "hoverThumbColor": "plasmaBlue",
+        "hoverTrackColor": "alternateGray"
+      },
+      "thumbColor": "alternateGray",
+      "hoverThumbColor": "plasmaBlue",
+      "trackColor": "alternateGray"
+    },
+
+    "TextField": {
+      "background": "paperWhite",
+      "selectionBackground": "plasmaBlue"
+    },
+    "ToolWindow": {
+      "Header": {
+        "background": "cardboardGray"
+      }
+    },
+
 
     "ToolTip": {
       "background": "paperWhite"
@@ -165,7 +247,7 @@
       "Actions.Blue": "#1d99f3",
       "Actions.GreyInline.Dark": "#4d4d4d",
 
-      "Objects.Grey": "#4d4d4dff",
+      "Objects.Grey": "#4d4d4d",
       "Objects.RedStatus": "#ed1515",
       "Objects.Red": "#da4453",
       "Objects.Yellow": "#fdbc4b",
