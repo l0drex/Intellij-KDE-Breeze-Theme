@@ -38,22 +38,26 @@
   "ui": {
     "*": {
       "background": "cardboardGray",
+      "inactiveBackground": "cardboardGray",
+      "disabledBackground": "cardboardGray",
       "foreground": "charcoalGray",
       "disabledForeground": "coastalFog",
       "inactiveForeground": "coastalFog",
       "disabledText": "coastalFog",
       "successForeground": "nobleFir",
-      "infoForeground": "iconYellow",
+      "infoForeground": "abyssBlue",
       "warningForeground": "bewareOrange",
       "errorForeground": "dangerRed",
 
       "selectionBackground":  "plasmaBlue",
       "selectionForeground": "paperWhite",
-      "selectionForegroundInactive": "cardboardGray",
+      "selectionInactiveBackground": "alternateGray",
       "selectionInactiveForeground": "cardboardGray",
+      "selectionBackgroundInactive": "alternateGray",
+      "selectionForegroundInactive": "cardboardGray",
 
 
-      "acceleratorSelectionForeground": "cardboardGray",
+      "acceleratorSelectionForeground": "paperWhite",
       "modifiedItemForeground": "plasmaBlue",
 
       "focusedBorderColor": "plasmaBlue",
@@ -108,10 +112,6 @@
       }
     },
 
-    "CompletionPopup": {
-      "matchForeground": "paperWhite"
-    },
-
     "Component": {
       "errorFocusColor": "dangerRed",
       "warningFocusColor": "bewareOrange",
@@ -119,27 +119,16 @@
     },
 
     "DefaultTabs": {
+      "background": "#dad9d8",
+      "underlinedTabBackground": "cardboardGray",
       "underlineColor": "plasmaBlue",
       "inactiveUnderlineColor": "coastalFog",
       "hoverBackground": "hoverBlue"
     },
 
-    "DragAndDrop": {
-      "areaForeground": "charcoalGray",
-      "areaBackground": "paperWhite",
-      "areaBorderColor": "plasmaBlue"
-    },
-
     "Editor": {
-      "background": "paperWhite",
+      "background": "cardboardGray",
       "shortcutForeground": "abyssBlue"
-    },
-
-    "EditorTabs": {
-      "background": "#dad9d8",
-      "underlinedTabBackground": "cardboardGray",
-      "hoverBackground": "hoverBlue",
-      "underlineColor": "plasmaBlue"
     },
 
     "FileColor": {
@@ -149,6 +138,11 @@
       "Violet": "#8e44ad",
       "Orange": "iconOrange",
       "Rose": "iconRed"
+    },
+
+    "Label": {
+      "infoForeground": "iconGray",
+      "errorForeground": "dangerRed"
     },
 
     "Link": {
@@ -166,15 +160,15 @@
 
     "Notification": {
       "background": "cardboardGray",
-
       "errorForeground": "dangerRed",
 
-      "MoreButton.innerBorderColor": "paperWhite",
-
       "ToolWindow": {
-        "informativeForeground": "iconYellow",
-        "warningForeground": "bewareOrange",
-        "errorForeground": "dangerRed"
+        "informativeForeground": "charcoalGray",
+        "informativeBackground": "iconGreen",
+        "warningForeground": "shadeBlack",
+        "warningBackground": "bewareOrange",
+        "errorForeground": "cardboardGray",
+        "errorBackground": "dangerRed"
       }
     },
 
@@ -205,10 +199,14 @@
       }
     },
 
-    "Panel.background": "paperWhite",
+    "Panel.background": "cardboardGray",
 
     "ProgressBar": {
-      "progressColor": "plasmaBlue"
+      "progressColor": "plasmaBlue",
+      "indeterminateStartColor": "plasmaBlue",
+      "indeterminateEndColor": "hoverBlue",
+      "failedColor": "dangerRed",
+      "passedColor": "iconGreen"
     },
 
     "ScrollBar": {
@@ -226,12 +224,6 @@
       "background": "paperWhite",
       "selectionBackground": "plasmaBlue"
     },
-    "ToolWindow": {
-      "Header": {
-        "background": "cardboardGray"
-      }
-    },
-
 
     "ToolTip": {
       "background": "paperWhite"
