@@ -37,7 +37,7 @@
 
   "ui": {
     "*": {
-      "background": "#2a2e32",
+      "background": "charcoalGray",
       "inactiveBackground": "#2a2e32",
       "disabledBackground": "#2a2e32",
       "foreground": "cardboardGray",
