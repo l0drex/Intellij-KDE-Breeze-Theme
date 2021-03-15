@@ -41,13 +41,14 @@
       "inactiveBackground": "cardboardGray",
       "disabledBackground": "cardboardGray",
       "foreground": "charcoalGray",
-      "disabledForeground": "coastalFog",
-      "inactiveForeground": "coastalFog",
-      "disabledText": "coastalFog",
-      "successForeground": "nobleFir",
+      "disabledForeground": "#888786",
+      "inactiveForeground": "#888786",
+      "disabledText": "#888786",
+
+      "successForeground": "#006e28",
       "infoForeground": "abyssBlue",
-      "warningForeground": "bewareOrange",
-      "errorForeground": "dangerRed",
+      "warningForeground": "#b08000",
+      "errorForeground": "#bf0303",
 
       "selectionBackground":  "plasmaBlue",
       "selectionForeground": "paperWhite",
@@ -77,8 +78,8 @@
     },
 
     "Button": {
-      "startBackground": "#ffffff",
-      "endBackground": "paperWhite",
+      "startBackground": "cardboardGray",
+      "endBackground": "#e0dfde",
       "startBorderColor": "lazyGray",
       "endBorderColor": "lazyGray",
       "focusedBorderColor": "plasmaBlue",
@@ -86,9 +87,9 @@
       "default": {
         "foreground": "paperWhite",
         "startBackground": "plasmaBlue",
-        "endBackground": "hyperBlue",
+        "endBackground": "#3498db",
         "startBorderColor": "plasmaBlue",
-        "endBorderColor": "hyperBlue",
+        "endBorderColor": "#3498db",
         "focusedBorderColor": "plasmaBlue",
         "focusColor": "plasmaBlue"
       }
@@ -101,21 +102,21 @@
 
     "ComboBox": {
       "modifiedItemForeground": "plasmaBlue",
+      "nonEditableBackground": "#e0dfde",
       "background": "paperWhite",
-      "nonEditableBackground": "cardboardGray",
       "selectionBackground": "plasmaBlue",
       "ArrowButton": {
-        "iconColor": "iconGray",
+        "iconColor": "charcoalGray",
         "disabledIconColor": "coastalFog",
-        "background": "paperWhite",
+        "background": "#e0dfde",
         "nonEditableBackground": "cardboardGray"
       }
     },
 
     "Component": {
-      "errorFocusColor": "dangerRed",
-      "warningFocusColor": "bewareOrange",
-      "iconColor": "iconGray"
+      "errorFocusColor": "#bf0303",
+      "warningFocusColor": "#b08000",
+      "iconColor": "charcoalGray"
     },
 
     "DefaultTabs": {
@@ -123,12 +124,12 @@
       "underlinedTabBackground": "cardboardGray",
       "underlineColor": "plasmaBlue",
       "inactiveUnderlineColor": "coastalFog",
-      "hoverBackground": "hoverBlue"
+      "hoverBackground": "#8ecbe9"
     },
 
     "Editor": {
       "background": "cardboardGray",
-      "shortcutForeground": "abyssBlue"
+      "shortcutForeground": "#0057ae"
     },
 
     "FileColor": {
@@ -142,7 +143,7 @@
 
     "Label": {
       "infoForeground": "iconGray",
-      "errorForeground": "dangerRed"
+      "errorForeground": "#bf0303"
     },
 
     "Link": {
@@ -160,15 +161,15 @@
 
     "Notification": {
       "background": "cardboardGray",
-      "errorForeground": "dangerRed",
+      "errorForeground": "#bf0303",
 
       "ToolWindow": {
         "informativeForeground": "charcoalGray",
-        "informativeBackground": "iconGreen",
+        "informativeBackground": "#006e28",
         "warningForeground": "shadeBlack",
-        "warningBackground": "bewareOrange",
+        "warningBackground": "#b08000",
         "errorForeground": "cardboardGray",
-        "errorBackground": "dangerRed"
+        "errorBackground": "#bf0303"
       }
     },
 
@@ -204,9 +205,9 @@
     "ProgressBar": {
       "progressColor": "plasmaBlue",
       "indeterminateStartColor": "plasmaBlue",
-      "indeterminateEndColor": "hoverBlue",
-      "failedColor": "dangerRed",
-      "passedColor": "iconGreen"
+      "indeterminateEndColor": "#8ecbe9",
+      "failedColor": "#bf0303",
+      "passedColor": "#006e28"
     },
 
     "ScrollBar": {
@@ -233,17 +234,17 @@
   "icons": {
     "ColorPalette": {
       "Actions.Grey": "#4d4d4d",
-      "Actions.Red": "#da4453",
-      "Actions.Yellow": "#fdbc4b",
-      "Actions.Green": "#2ecc71",
+      "Actions.GreyInline.Dark": "#eff0f1",
+      "Actions.Red": "#bf0303",
+      "Actions.Yellow": "#b08000",
+      "Actions.Green": "#006e28",
       "Actions.Blue": "#1d99f3",
-      "Actions.GreyInline.Dark": "#4d4d4d",
 
       "Objects.Grey": "#4d4d4d",
-      "Objects.RedStatus": "#ed1515",
-      "Objects.Red": "#da4453",
-      "Objects.Yellow": "#fdbc4b",
-      "Objects.Green": "#2ecc71",
+      "Objects.RedStatus": "#bf0303",
+      "Objects.Red": "#bf0303",
+      "Objects.Yellow": "#b08000",
+      "Objects.Green": "#006e28",
       "Objects.Blue": "#1d99f3",
       "Objects.Purple": "#8e44ad",
       "Objects.BlackText": "#232629",
