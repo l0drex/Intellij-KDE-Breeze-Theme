@@ -176,7 +176,7 @@
       "MoreButton.innerBorderColor": "shadeBlack",
 
       "ToolWindow": {
-        "informativeForeground": "abyssBlue",
+        "informativeForeground": "iconYellow",
         "warningForeground": "bewareOrange",
         "errorForeground": "dangerRed"
       }
