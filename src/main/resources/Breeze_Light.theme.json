@@ -40,10 +40,15 @@
       "background": "cardboardGray",
       "inactiveBackground": "cardboardGray",
       "disabledBackground": "cardboardGray",
+
       "foreground": "charcoalGray",
+      "acceleratorForeground": "charcoalGray",
+      "caretForeground": "charcoalGray",
       "disabledForeground": "#888786",
       "inactiveForeground": "#888786",
       "disabledText": "#888786",
+
+      "acceleratorSelectionForeground": "paperWhite",
 
       "successForeground": "#006e28",
       "infoForeground": "abyssBlue",
@@ -57,14 +62,12 @@
       "selectionBackgroundInactive": "alternateGray",
       "selectionForegroundInactive": "cardboardGray",
 
-
-      "acceleratorSelectionForeground": "paperWhite",
       "modifiedItemForeground": "plasmaBlue",
 
       "focusedBorderColor": "plasmaBlue",
       "hoverBorderColor": "plasmaBlue",
       "pressedBorderColor": "plasmaBlue",
-      "disabledBorderColor": "coastalFog",
+      "disabledBorderColor": "#888786",
 
       "borderColor": "lazyGray",
       "separatorColor": "lazyGray",
@@ -83,6 +86,7 @@
       "startBorderColor": "lazyGray",
       "endBorderColor": "lazyGray",
       "focusedBorderColor": "plasmaBlue",
+      "disabledBorderColor": "#888786",
 
       "default": {
         "foreground": "paperWhite",
@@ -105,9 +109,10 @@
       "nonEditableBackground": "cardboardGray",
       "background": "paperWhite",
       "selectionBackground": "plasmaBlue",
+      "disabledForeground": "#888786",
       "ArrowButton": {
         "iconColor": "charcoalGray",
-        "disabledIconColor": "coastalFog",
+        "disabledIconColor": "#888786",
         "background": "paperWhite",
         "nonEditableBackground": "cardboardGray"
       }
@@ -254,9 +259,9 @@
       "Checkbox.Background.Selected": "#3DAEE9",
       "Checkbox.Foreground.Selected": "#fcfcfc",
       "Checkbox.Border.Selected": "#3DAEE9",
-      "Checkbox.Background.Disabled": "#bdc3c7",
-      "Checkbox.Foreground.Disabled": "#7f8c8d",
-      "Checkbox.Border.Disabled": "#7f8c8d"
+      "Checkbox.Background.Disabled": "#fcfcfc",
+      "Checkbox.Foreground.Disabled": "#888786",
+      "Checkbox.Border.Disabled": "#888786"
     }
   }
 }
