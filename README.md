@@ -14,7 +14,7 @@
 - [x] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
 
 <!-- Plugin description -->
-This plugin adds the default theme of KDE Plasma to Intellij IDEs.
+This plugin adds the default theme of KDE Plasma, [Breeze](https://hig.kde.org/style/color/default.html), to Intellij IDEs.
 It consists of the 
 - Breeze Light Theme
 - Breeze Dark Theme
