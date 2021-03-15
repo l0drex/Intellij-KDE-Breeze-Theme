@@ -37,7 +37,7 @@
 
   "ui": {
     "*": {
-      "background": "charcoalGray",
+      "background": "#2a2e32",
       "inactiveBackground": "#2a2e32",
       "disabledBackground": "#2a2e32",
       "foreground": "cardboardGray",
@@ -199,6 +199,8 @@
       }
     },
 
+    "Panel.background": "charcoalGray",
+
     "ProgressBar": {
       "progressColor": "plasmaBlue",
       "indeterminateStartColor": "plasmaBlue",
@@ -254,7 +256,7 @@
 
       "Checkbox.Background.Default": "#31363b",
       "Checkbox.Border.Default": "#7f8c8d",
-      "Checkbox.Background.Selected": "#3DAEE9",
+      "Checkbox.Background.Selected": "#31363b",
       "Checkbox.Foreground.Selected": "#eff0f1",
       "Checkbox.Border.Selected": "#3DAEE9",
       "Checkbox.Background.Disabled": "#31363b",
