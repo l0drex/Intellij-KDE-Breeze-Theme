@@ -218,6 +218,8 @@
       "trackColor": "alternateGray"
     },
 
+    "Spinner.background": "cardboardGray",
+
     "TitlePane.background": "#DEE0E2",
 
     "TextField": {
