@@ -8,7 +8,10 @@
       "background": "#000000"
     },
 
-    "Panel.background": "#333333"
+    "Panel.background": "#333333",
+    "CheckBox.background": "#333333",
+    "Button.background": "#333333",
+    "RadioButton.background": "#333333"
   },
 
   "icons": {
