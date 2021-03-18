@@ -159,12 +159,12 @@
       "secondaryForeground": "abyssBlue"
     },
 
+    "Menu.background": "#DEE0E2",
+
     "MemoryIndicator": {
       "usedBackground": "plasmaBlue",
       "allocatedBackground": "lazyGray"
     },
-
-    "TitlePane.background": "#DEE0E2",
 
     "Notification": {
       "background": "cardboardGray",
@@ -198,6 +198,15 @@
       "passedColor": "nobleFir"
     },
 
+    "PopupMenu.background": "#dee0e2",
+
+    "Popup": {
+      "Header.activeBackground": "#dee0e2",
+      "Header.inactiveBackground": "cardboardGray",
+      "Toolbar.background": "#dee0e2",
+      "Advertiser.background": "cardboardGray"
+    },
+
     "ScrollBar": {
       "Transparent": {
         "thumbColor": "alternateGray",
@@ -209,13 +218,34 @@
       "trackColor": "alternateGray"
     },
 
+    "TitlePane.background": "#DEE0E2",
+
     "TextField": {
       "background": "paperWhite",
       "selectionBackground": "plasmaBlue"
     },
 
+    "ToggleButton": {
+      "background": "alternateGray",
+      "foreground": "paperWhite",
+      "onBackground": "iconGreen",
+      "onForeground": "paperWhite",
+      "offBackground": "iconRed",
+      "offForeground": "paperWhite"
+    },
+
+    "ToolBar.background": "#DEE0E2",
+
     "ToolTip": {
       "background": "paperWhite"
+    },
+
+    "ToolWindow": {
+      "Header.background": "#DEE0E2",
+      "Button": {
+        "selectedBackground": "#CDCFD0",
+        "hoverBackground": "hoverBlue"
+      }
     }
   },
 
