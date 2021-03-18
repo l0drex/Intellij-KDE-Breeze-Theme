@@ -230,7 +230,7 @@
 
     "ToggleButton": {
       "background": "alternateGray",
-      "foreground": "paperWhite",
+      "foreground": "charcoalGray",
       "onBackground": "iconGreen",
       "onForeground": "paperWhite",
       "offBackground": "iconRed",
