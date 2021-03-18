@@ -132,6 +132,8 @@
       "hoverBackground": "hoverBlue"
     },
 
+    "TabbedPane.background": "cardboardGray",
+
     "Editor": {
       "background": "alternateGray",
       "shortcutForeground": "abyssBlue"
@@ -189,6 +191,7 @@
     "CheckBox.background": "cardboardGray",
     "Button.background": "cardboardGray",
     "RadioButton.background": "cardboardGray",
+    "Slider.background": "cardboardGray",
 
     "ProgressBar": {
       "progressColor": "plasmaBlue",
@@ -197,8 +200,6 @@
       "failedColor": "dangerRed",
       "passedColor": "nobleFir"
     },
-
-    "PopupMenu.background": "#dee0e2",
 
     "Popup": {
       "Header.activeBackground": "#dee0e2",
