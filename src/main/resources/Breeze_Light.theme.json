@@ -164,6 +164,8 @@
       "allocatedBackground": "lazyGray"
     },
 
+    "TitlePane.background": "#DEE0E2",
+
     "Notification": {
       "background": "cardboardGray",
       "errorForeground": "dangerRed",
@@ -184,6 +186,9 @@
     },
 
     "Panel.background": "cardboardGray",
+    "CheckBox.background": "cardboardGray",
+    "Button.background": "cardboardGray",
+    "RadioButton.background": "cardboardGray",
 
     "ProgressBar": {
       "progressColor": "plasmaBlue",

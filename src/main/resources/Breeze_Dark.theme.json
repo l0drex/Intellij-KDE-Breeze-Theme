@@ -178,6 +178,9 @@
     },
 
     "Panel.background": "charcoalGray",
+    "CheckBox.background": "charcoalGray",
+    "Button.background": "charcoalGray",
+    "RadioButton.background": "charcoalGray",
 
     "ProgressBar": {
       "progressColor": "plasmaBlue",
