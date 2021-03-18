@@ -37,7 +37,7 @@
 
   "ui": {
     "*": {
-      "background": "charcoalGray",
+      "background": "shadeBlack",
       "inactiveBackground": "#2a2e32",
       "disabledBackground": "#2a2e32",
       "foreground": "cardboardGray",
@@ -120,7 +120,7 @@
 
     "DefaultTabs": {
       "background": "#26292C",
-      "underlinedTabBackground": "#2A2E32",
+      "underlinedTabBackground": "charcoalGray",
       "underlineColor": "plasmaBlue",
       "inactiveUnderlineColor": "iconGray",
       "hoverBackground": "#2E4857"
@@ -141,7 +141,7 @@
     },
 
     "Label": {
-      "infoForeground": "iconGray",
+      "infoForeground": "#bdc3c7",
       "errorForeground": "dangerRed"
     },
 
@@ -177,34 +177,15 @@
       "foreground": "cardboardGray"
     },
 
-    "Plugins": {
-      "Tab": {
-        "selectedForeground": "paperWhite",
-        "selectedBackground": "plasmaBlue",
-        "hoverBackground": "hoverBlue"
-      },
-
-      "SearchField.background": "shadeBlack",
-      "SectionHeader.background": "#2a2e32",
-      "tagBackground": "#2a2e32",
-      "tagForeground": "cardboardGray",
-
-      "Button": {
-        "installForeground": "cardboardGray",
-        "installBorderColor": "coastalFog",
-        "installFillForeground": "paperWhite",
-        "installBackground": "plasmaBlue",
-        "updateForeground": "cardboardGray",
-        "updateBackground": "charcoalGray"
-      }
-    },
-
     "Panel.background": "charcoalGray",
+    "CheckBox.background": "charcoalGray",
+    "Button.background": "charcoalGray",
+    "RadioButton.background": "charcoalGray",
 
     "ProgressBar": {
       "progressColor": "plasmaBlue",
       "indeterminateStartColor": "plasmaBlue",
-      "indeterminateEndColor": "hoverBlue",
+      "indeterminateEndColor": "#3498db",
       "failedColor": "dangerRed",
       "passedColor": "iconGreen"
     },
@@ -221,7 +202,7 @@
     },
 
     "TabbedPane": {
-      "background": "#26292D",
+      "background": "shadeBlack",
       "underlineColor": "plasmaBlue",
       "disabledUnderlineColor": "iconGray"
     },
