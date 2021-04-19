@@ -255,7 +255,7 @@
   "icons": {
     "ColorPalette": {
       "Actions.Grey": "#4d4d4d",
-      "Actions.GreyInline.Dark": "#eff0f1",
+      "Actions.GreyInline.Dark": "#4d4d4d",
       "Actions.Red": "#bf0303",
       "Actions.Yellow": "#b08000",
       "Actions.Green": "#006e28",
