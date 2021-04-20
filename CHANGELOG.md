@@ -3,6 +3,9 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Added
+- Light editor scheme
+- Dark editor scheme
 
 ## [0.0.2] - 2021-04-20
 ### Added
