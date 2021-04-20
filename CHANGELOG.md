@@ -3,6 +3,11 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Added
+- Plugin Icon
+
+### Changed
+- Plugin description
 
 ## [0.0.1] - 2021-04-19
 ### Added
