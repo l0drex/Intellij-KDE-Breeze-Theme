@@ -19,8 +19,7 @@ It consists of the
 - Breeze Light Theme
 - Breeze Dark Theme
 
-Currently, it only contains the ui themes, but editor color schemes and custom icons and backgrounds
-is planned for future releases.
+Currently, it only contains the UI themes, but editor color schemes and custom icons are planned for future releases.
 <!-- Plugin description end -->
 
 ## Installation
