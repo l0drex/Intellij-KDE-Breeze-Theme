@@ -34,7 +34,8 @@
     "nobleFir": "#27ae60",
     "pimpinella": "#e74c3c",
 
-    "titleGray": "#DEE0E2"
+    "titleGray": "#DEE0E2",
+    "tabGray": "#CDCFD0"
   },
 
   "ui": {
@@ -127,7 +128,7 @@
     },
 
     "DefaultTabs": {
-      "background": "#dad9d8",
+      "background": "tabGray",
       "underlinedTabBackground": "cardboardGray",
       "underlineColor": "plasmaBlue",
       "inactiveUnderlineColor": "coastalFog",
@@ -139,6 +140,11 @@
     "Editor": {
       "background": "alternateGray",
       "shortcutForeground": "abyssBlue"
+    },
+
+    "EditorTabs": {
+      "background": "tabGray",
+      "underlinedTabBackground": "cardboardGray"
     },
 
     "FileColor": {
@@ -239,7 +245,7 @@
       "offForeground": "paperWhite"
     },
 
-    "ToolBar.background": "#DEE0E2",
+    "ToolBar.background": "titleGray",
 
     "ToolTip": {
       "background": "paperWhite"
@@ -248,7 +254,7 @@
     "ToolWindow": {
       "Header.background": "titleGray",
       "Button": {
-        "selectedBackground": "#CDCFD0",
+        "selectedBackground": "alternateGray",
         "hoverBackground": "hoverBlue"
       }
     }
