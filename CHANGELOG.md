@@ -7,6 +7,9 @@
 - Light editor scheme
 - Dark editor scheme
 
+## Changed
+- Icon colors in light theme are now brighter
+
 ## [0.0.2] - 2021-04-20
 ### Added
 - Plugin Icon
