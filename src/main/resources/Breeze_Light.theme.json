@@ -43,9 +43,9 @@
       "inactiveBackground": "cardboardGray",
       "disabledBackground": "cardboardGray",
 
-      "foreground": "charcoalGray",
-      "acceleratorForeground": "charcoalGray",
-      "caretForeground": "charcoalGray",
+      "foreground": "shadeBlack",
+      "acceleratorForeground": "shadeBlack",
+      "caretForeground": "shadeBlack",
       "disabledForeground": "coastalFog",
       "inactiveForeground": "coastalFog",
       "disabledText": "coastalFog",
@@ -175,7 +175,7 @@
       "errorForeground": "dangerRed",
 
       "ToolWindow": {
-        "informativeForeground": "charcoalGray",
+        "informativeForeground": "shadeBlack",
         "informativeBackground": "iconGreen",
         "warningForeground": "shadeBlack",
         "warningBackground": "bewareOrange",
@@ -186,7 +186,7 @@
 
     "ParameterInfo": {
       "background": "cardboardGray",
-      "foreground": "charcoalGray"
+      "foreground": "shadeBlack"
     },
 
     "Panel.background": "cardboardGray",
@@ -232,7 +232,7 @@
 
     "ToggleButton": {
       "background": "alternateGray",
-      "foreground": "charcoalGray",
+      "foreground": "shadeBlack",
       "onBackground": "iconGreen",
       "onForeground": "paperWhite",
       "offBackground": "iconRed",
