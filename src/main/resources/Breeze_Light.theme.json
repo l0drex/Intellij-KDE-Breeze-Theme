@@ -169,7 +169,7 @@
       "secondaryForeground": "abyssBlue"
     },
 
-    "Menu.background": "titleGray",
+    "Menu.background": "cardboardGray",
 
     "MemoryIndicator": {
       "usedBackground": "plasmaBlue",

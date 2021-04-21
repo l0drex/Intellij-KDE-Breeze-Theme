@@ -1,10 +1,10 @@
 <scheme name="Breeze Light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-04-21T19:30:31</property>
+    <property name="created">2021-04-21T19:51:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-21T19:30:39</property>
+    <property name="modified">2021-04-21T19:51:09</property>
     <property name="originalScheme">Breeze Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -22,7 +22,7 @@
     <option name="GUTTER_BACKGROUND" value="eff0f1" />
     <option name="INDENT_GUIDE" value="eff0f1" />
     <option name="INFORMATION_HINT" value="eff0f1" />
-    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="bec3c7" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="bdc3c7" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="bec3c7" />
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="bec3c7" />
     <option name="LINE_NUMBERS_COLOR" value="7f8c8d" />
@@ -114,7 +114,7 @@
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="2b81ba" />
+        <option name="FOREGROUND" value="2980b9" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -148,7 +148,7 @@
     </option>
     <option name="DEFAULT_ENTITY">
       <value>
-        <option name="FOREGROUND" value="2b81ba" />
+        <option name="FOREGROUND" value="2980b9" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -156,12 +156,12 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="18a186" />
+        <option name="FOREGROUND" value="16a085" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
-        <option name="EFFECT_COLOR" value="25282b" />
+        <option name="EFFECT_COLOR" value="232629" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -173,18 +173,18 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="29af61" />
-        <option name="BACKGROUND" value="eb9aa2" />
+        <option name="FOREGROUND" value="27ae60" />
+        <option name="BACKGROUND" value="eb99a1" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="2b81ba" />
+        <option name="FOREGROUND" value="2980b9" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">
       <value>
-        <option name="EFFECT_COLOR" value="25282b" />
+        <option name="EFFECT_COLOR" value="232629" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -196,23 +196,23 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="2b81ba" />
+        <option name="FOREGROUND" value="2980b9" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="2b81ba" />
+        <option name="FOREGROUND" value="2980b9" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="EFFECT_COLOR" value="96a6a7" />
+        <option name="EFFECT_COLOR" value="7f8c8d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
       <value>
-        <option name="EFFECT_COLOR" value="96a6a7" />
+        <option name="EFFECT_COLOR" value="232629" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -230,7 +230,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="29af61" />
+        <option name="FOREGROUND" value="27ae60" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -243,7 +243,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="2b81ba" />
+        <option name="FOREGROUND" value="2980b9" />
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -416,31 +416,31 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="808d8e" />
+        <option name="FOREGROUND" value="7f8c8d" />
         <option name="BACKGROUND" value="eff0f1" />
       </value>
     </option>
     <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
       <value>
-        <option name="FOREGROUND" value="808d8e" />
+        <option name="FOREGROUND" value="7f8c8d" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="808d8e" />
+        <option name="FOREGROUND" value="7f8c8d" />
         <option name="BACKGROUND" value="eff0f1" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="808d8e" />
-        <option name="BACKGROUND" value="94cee9" />
+        <option name="FOREGROUND" value="7f8c8d" />
+        <option name="BACKGROUND" value="93ceee" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="4e4e4e" />
-        <option name="BACKGROUND" value="96a6a7" />
+        <option name="FOREGROUND" value="31363b" />
+        <option name="BACKGROUND" value="bdc3c3" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
