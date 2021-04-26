@@ -9,24 +9,26 @@ assignees: ''
 
 **Describe the bug**
 A clear and concise description of what the bug is.
+Example: _The default text in the editor is too dark_
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Affected theme**
+- [ ] Dark theme
+- [ ] Light theme
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Affected part of the UI**
+Describe which part of the UI is affected by this.
+Example: _Default text in editor_
+
+**Expected appearance**
+Describe what appereance you expected from this part.
+Example: _The text should have a brighter color, like paper white_
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. iOS]
  - Plugin Version [e.g. 0.0.1]
  - IDE version [e.g. IDEA 2021.1]
 
-**Additional context**
+**Additional notes**
 Add any other context about the problem here.
