@@ -1,10 +1,10 @@
 <scheme name="Breeze Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-04-25T21:47:41</property>
+    <property name="created">2021-04-25T22:35:47</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-25T21:47:52</property>
+    <property name="modified">2021-04-25T22:35:58</property>
     <property name="originalScheme">Breeze Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -40,9 +40,9 @@
     <option name="HTML_TAG_TREE_LEVEL3" value="1abc9c" />
     <option name="HTML_TAG_TREE_LEVEL4" value="3daee9" />
     <option name="HTML_TAG_TREE_LEVEL5" value="9b59b6" />
-    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="2ecc71" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="2a8954" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="7f8c8d" />
-    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="63bdec" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="33779c" />
     <option name="IMAGES_BACKGROUND" value="232629" />
     <option name="IMAGES_GRID_LINE_COLOR" value="31363b" />
     <option name="IMAGES_WHITE_CELL_COLOR" value="bdc3c7" />
@@ -64,10 +64,11 @@
     <option name="SELECTED_INDENT_GUIDE" value="31363b" />
     <option name="SELECTED_TEARLINE_COLOR" value="7f8c8d" />
     <option name="SELECTION_BACKGROUND" value="2d5d76" />
-    <option name="SEPARATOR_BELOW_COLOR" value="bdc3c7" />
+    <option name="SEPARATOR_BELOW_COLOR" value="4d4d4d" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="7f8c8d" />
-    <option name="ScrollBar.hoverThumbColor" value="3daee9" />
     <option name="ScrollBar.thumbColor" value="7f8c8d" />
+    <option name="ScrollBar.hoverThumbColor" value="3daee9" />
+    <option name="ScrollBar.hoverTrackColor" value="7f8c8d"/>
     <option name="TAB_UNDERLINE" value="3daee9" />
     <option name="TAB_UNDERLINE_INACTIVE" value="7f8c8d" />
     <option name="TEARLINE_COLOR" value="bdc3c7" />
