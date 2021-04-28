@@ -3,8 +3,6 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
-
-## [0.0.3] - 2021-03-23
 ### Changed
 - Support for newest version of IDE
 - Updated dependencies
