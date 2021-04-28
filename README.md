@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/16605-kde-breeze-theme.svg)](https://plugins.jetbrains.com/plugin/16605-kde-breeze-theme)
 
 <!-- Plugin description -->
-This plugin adds the default theme of KDE Plasma, [Breeze](https://hig.kde.org/style/color/default.html), to Intellij IDEs.
+This plugin adds the default theme of KDE Plasma, [Breeze](https://develop.kde.org/hig/style/color/default/), to Intellij IDEs.
 It consists of the 
 - Breeze Light Theme
 - Breeze Dark Theme
