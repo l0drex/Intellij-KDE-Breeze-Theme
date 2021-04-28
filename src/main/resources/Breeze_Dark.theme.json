@@ -132,7 +132,7 @@
     },
 
     "FileColor": {
-      "Yellow": "iconYellow",
+      "Yellow": "#7a6237",
       "Green": "iconGreen",
       "Blue": "iconBlue",
       "Violet": "#8e44ad",
