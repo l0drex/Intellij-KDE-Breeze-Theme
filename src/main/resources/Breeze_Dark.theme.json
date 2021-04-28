@@ -86,9 +86,9 @@
       "default": {
         "foreground": "paperWhite",
         "startBackground": "plasmaBlue",
-        "endBackground": "hyperBlue",
+        "endBackground": "#3498db",
         "startBorderColor": "plasmaBlue",
-        "endBorderColor": "hyperBlue",
+        "endBorderColor": "#3498db",
         "focusedBorderColor": "plasmaBlue",
         "focusColor": "plasmaBlue"
       }
