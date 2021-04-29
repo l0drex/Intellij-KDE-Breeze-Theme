@@ -32,14 +32,25 @@
     "decoBlue": "#1e92ff",
     "abyssBlue": "#2980b9",
     "nobleFir": "#27ae60",
-    "pimpinella": "#e74c3c"
+    "pimpinella": "#e74c3c",
+
+    "charcoalGrayUpdate": "#2A2E32",
+    "spaceBlack": "#1B1E20",
+    "buttonGrayStart": "#31363C",
+    "buttonGrayEnd": "#30353A",
+    "buttonDisabledGray": "#2E3237",
+    "innerGray": "#26292D",
+    "borderGray": "#5F6265",
+    "brighterBorderGray": "#6F7276",
+    "brightestBorderGray": "#A8AAAB",
+    "disabledBorderGray": "#3A3D41"
   },
 
   "ui": {
     "*": {
       "background": "shadeBlack",
-      "inactiveBackground": "#2a2e32",
-      "disabledBackground": "#2a2e32",
+      "inactiveBackground": "charcoalGrayUpdate",
+      "disabledBackground": "charcoalGrayUpdate",
       "foreground": "cardboardGray",
       "disabledForeground": "coastalFog",
       "inactiveForeground": "coastalFog",
@@ -63,12 +74,12 @@
       "focusedBorderColor": "plasmaBlue",
       "hoverBorderColor": "plasmaBlue",
       "pressedBorderColor": "plasmaBlue",
-      "disabledBorderColor": "iconGray",
+      "disabledBorderColor": "disabledBorderGray",
 
-      "borderColor": "#5f6265",
-      "separatorColor": "#5f6265",
-      "separatorForeground": "#5f6265",
-      "lineSeparatorColor": "#5f6265"
+      "borderColor": "borderGray",
+      "separatorColor": "borderGray",
+      "separatorForeground": "borderGray",
+      "lineSeparatorColor": "borderGray"
     },
 
     "ActionButton": {
@@ -77,10 +88,10 @@
     },
 
     "Button": {
-      "startBackground": "charcoalGray",
-      "endBackground": "#30353a",
-      "startBorderColor": "coastalFog",
-      "endBorderColor": "coastalFog",
+      "startBackground": "buttonGrayStart",
+      "endBackground": "buttonGrayEnd",
+      "startBorderColor": "brighterBorderGray",
+      "endBorderColor": "brighterBorderGray",
       "focusedBorderColor": "plasmaBlue",
 
       "default": {
@@ -95,20 +106,20 @@
     },
 
     "Borders": {
-      "color": "#5f6265",
-      "ContrastBorderColor": "#5f6265"
+      "color": "borderGray",
+      "ContrastBorderColor": "brighterBorderGray"
     },
 
     "ComboBox": {
       "modifiedItemForeground": "plasmaBlue",
-      "nonEditableBackground": "charcoalGray",
-      "background": "shadeBlack",
+      "nonEditableBackground": "buttonGrayStart",
+      "background": "spaceBlack",
       "selectionBackground": "plasmaBlue",
       "ArrowButton": {
         "iconColor": "cardboardGray",
         "disabledIconColor": "iconGray",
-        "background": "shadeBlack",
-        "nonEditableBackground": "charcoalGray"
+        "background": "spaceBlack",
+        "nonEditableBackground": "buttonGrayStart"
       }
     },
 
@@ -120,14 +131,14 @@
 
     "DefaultTabs": {
       "background": "#26292C",
-      "underlinedTabBackground": "charcoalGray",
+      "underlinedTabBackground": "charcoalGrayUpdate",
       "underlineColor": "plasmaBlue",
       "inactiveUnderlineColor": "iconGray",
       "hoverBackground": "#2E4857"
     },
 
     "Editor": {
-      "background": "#1b1e20",
+      "background": "spaceBlack",
       "shortcutForeground": "abyssBlue"
     },
 
@@ -159,11 +170,11 @@
     },
 
     "Notification": {
-      "background": "charcoalGray",
+      "background": "charcoalGrayUpdate",
       "errorForeground": "dangerRed",
 
       "ToolWindow": {
-        "informativeForeground": "charcoalGray",
+        "informativeForeground": "charcoalGrayUpdate",
         "informativeBackground": "iconGreen",
         "warningForeground": "shadeBlack",
         "warningBackground": "bewareOrange",
@@ -173,14 +184,15 @@
     },
 
     "ParameterInfo": {
-      "background": "charcoalGray",
-      "foreground": "cardboardGray"
+      "background": "charcoalGrayUpdate",
+      "foreground": "charcoalGrayUpdate"
     },
 
-    "Panel.background": "charcoalGray",
-    "CheckBox.background": "charcoalGray",
-    "Button.background": "charcoalGray",
-    "RadioButton.background": "charcoalGray",
+    "Panel.background": "charcoalGrayUpdate",
+    "CheckBox.background": "charcoalGrayUpdate",
+    "Button.background": "charcoalGrayUpdate",
+    "RadioButton.background": "charcoalGrayUpdate",
+    "Slider.background": "charcoalGrayUpdate",
 
     "ProgressBar": {
       "progressColor": "plasmaBlue",
@@ -202,19 +214,27 @@
     },
 
     "TabbedPane": {
-      "background": "shadeBlack",
+      "background": "innerGray",
       "underlineColor": "plasmaBlue",
       "disabledUnderlineColor": "iconGray"
     },
 
     "TextField": {
-      "background": "shadeBlack",
+      "background": "spaceBlack",
       "selectionBackground": "plasmaBlue"
     },
 
+    "TextArea.background": "shadeBlack",
+
     "ToolTip": {
       "background": "shadeBlack"
-    }
+    },
+
+    "WelcomeScreen.SidePanel.background": "spaceBlack",
+    "WelcomeScreen.Projects.background": "spaceBlack",
+    "WelcomeScreen.background": "charcoalGrayUpdate",
+
+    "SidePanel.background": "spaceBlack"
   },
 
   "icons": {
@@ -236,10 +256,10 @@
       "Objects.BlackText": "#232629",
 
       "Checkbox.Background.Default": "#31363b",
-      "Checkbox.Border.Default": "#7f8c8d",
+      "Checkbox.Border.Default": "#A8AAAB",
       "Checkbox.Background.Selected": "#31363b",
       "Checkbox.Foreground.Selected": "#eff0f1",
-      "Checkbox.Border.Selected": "#3DAEE9",
+      "Checkbox.Border.Selected": "#3daee9",
       "Checkbox.Background.Disabled": "#31363b",
       "Checkbox.Foreground.Disabled": "#4d4d4d",
       "Checkbox.Border.Disabled": "#4d4d4d"
