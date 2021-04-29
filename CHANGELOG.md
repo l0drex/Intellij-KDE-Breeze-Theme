@@ -6,6 +6,13 @@
 ### Added
 - Light editor scheme
 - Dark editor scheme
+- Theming for plugins section in settings
+
+### Fixed
+- Elevation in welcome screen
+
+### Changed
+- Background of buttons now matches their appearance in Plasma
 
 ### Changed
 - Icon colors in light theme are now brighter
