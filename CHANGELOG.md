@@ -17,9 +17,14 @@
 ### Changed
 - Icon colors in light theme are now brighter
 
-## [0.0.3] - 2021-03-23
+## [0.0.3]
 ### Changed
 - Support for newest version of IDE
+- Updated dependencies
+  
+### Fixed
+- Background of excluded folders is now darker for better readability in dark theme
+- Button background gradient in dark theme is now more visible
 
 ## [0.0.2] - 2021-04-20
 ### Added
