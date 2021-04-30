@@ -83,9 +83,15 @@
       "pressedBackground": "plasmaBlue"
     },
 
+    "Borders": {
+      "color": "lazyGray",
+      "ContrastBorderColor": "lazyGray"
+    },
+
     "Button": {
       "startBackground": "#f9f9f9",
       "endBackground": "#f1f1f1",
+      "background": "cardboardGray",
       "startBorderColor": "lazyGray",
       "endBorderColor": "lazyGray",
       "focusedBorderColor": "plasmaBlue",
@@ -103,10 +109,7 @@
       }
     },
 
-    "Borders": {
-      "color": "lazyGray",
-      "ContrastBorderColor": "lazyGray"
-    },
+    "CheckBox.background": "cardboardGray",
 
     "ComboBox": {
       "modifiedItemForeground": "plasmaBlue",
@@ -136,8 +139,6 @@
       "hoverBackground": "hoverBlue"
     },
 
-    "TabbedPane.background": "cardboardGray",
-
     "Editor": {
       "background": "alternateGray",
       "shortcutForeground": "abyssBlue"
@@ -157,29 +158,6 @@
       "Rose": "iconRed"
     },
 
-    "Plugins": {
-      "Tab.hoverBackground": "hoverBlue",
-      "Tab.selectedBackground": "plasmaBlue",
-      "background": "paperWhite",
-      "SearchField.background": "paperWhite",
-      "SectionHeader.background": "cardboardGray",
-      "tagBackground": "cardboardGray",
-      "tagForeground": "coastalFog",
-      "hoverBackground": "hoverBlue",
-      "lightSelectionBackground": "hoverBlue",
-      "Button": {
-        "installBackground": "#f9f9f9",
-        "installBorderColor": "lazyGray",
-        "installForeground": "shadeBlack",
-        "installFillBackground": "plasmaBlue",
-        "installFillForeground": "paperWhite",
-
-        "updateBackground": "plasmaBlue",
-        "updateBorderColor": "lazyGray",
-        "updateForeground": "paperWhite"
-      }
-    },
-
     "Label": {
       "infoForeground": "iconGray",
       "errorForeground": "dangerRed"
@@ -193,12 +171,12 @@
       "secondaryForeground": "abyssBlue"
     },
 
-    "Menu.background": "cardboardGray",
-
     "MemoryIndicator": {
       "usedBackground": "plasmaBlue",
       "allocatedBackground": "lazyGray"
     },
+
+    "Menu.background": "cardboardGray",
 
     "Notification": {
       "background": "cardboardGray",
@@ -219,11 +197,30 @@
       "foreground": "shadeBlack"
     },
 
+    "Plugins": {
+      "Tab.hoverBackground": "hoverBlue",
+      "Tab.selectedBackground": "plasmaBlue",
+      "background": "paperWhite",
+      "SearchField.background": "paperWhite",
+      "SectionHeader.background": "cardboardGray",
+      "tagBackground": "cardboardGray",
+      "tagForeground": "coastalFog",
+      "hoverBackground": "hoverBlue",
+      "lightSelectionBackground": "hoverBlue",
+      "Button": {
+        "installBackground": "paperWhite",
+        "installBorderColor": "lazyGray",
+        "installForeground": "shadeBlack",
+        "installFillBackground": "plasmaBlue",
+        "installFillForeground": "paperWhite",
+
+        "updateBackground": "plasmaBlue",
+        "updateBorderColor": "lazyGray",
+        "updateForeground": "paperWhite"
+      }
+    },
+
     "Panel.background": "cardboardGray",
-    "CheckBox.background": "cardboardGray",
-    "Button.background": "cardboardGray",
-    "RadioButton.background": "cardboardGray",
-    "Slider.background": "cardboardGray",
 
     "ProgressBar": {
       "progressColor": "plasmaBlue",
@@ -233,14 +230,14 @@
       "passedColor": "nobleFir"
     },
 
-    "WelcomeScreen.background": "cardboardGray",
-
     "Popup": {
       "Header.activeBackground": "titleGray",
       "Header.inactiveBackground": "cardboardGray",
       "Toolbar.background": "titleGray",
       "Advertiser.background": "cardboardGray"
     },
+
+    "RadioButton.background": "cardboardGray",
 
     "ScrollBar": {
       "Transparent": {
@@ -254,6 +251,10 @@
     },
 
     "Spinner.background": "cardboardGray",
+
+    "Slider.background": "cardboardGray",
+
+    "TabbedPane.background": "cardboardGray",
 
     "TitlePane.background": "titleGray",
 
@@ -285,7 +286,9 @@
         "selectedBackground": "alternateGray",
         "hoverBackground": "hoverBlue"
       }
-    }
+    },
+
+    "WelcomeScreen.background": "cardboardGray"
   },
 
   "icons": {
