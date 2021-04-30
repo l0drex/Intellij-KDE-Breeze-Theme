@@ -36,7 +36,6 @@
 
     "charcoalGrayUpdate": "#2A2E32",
     "spaceBlack": "#1B1E20",
-    "buttonGrayStart": "#31363C",
     "buttonGrayEnd": "#30353A",
     "buttonDisabledGray": "#2E3237",
     "innerGray": "#26292D",
@@ -88,7 +87,7 @@
     },
 
     "Button": {
-      "startBackground": "buttonGrayStart",
+      "startBackground": "charcoalGray",
       "endBackground": "buttonGrayEnd",
       "startBorderColor": "brighterBorderGray",
       "endBorderColor": "brighterBorderGray",
@@ -112,14 +111,14 @@
 
     "ComboBox": {
       "modifiedItemForeground": "plasmaBlue",
-      "nonEditableBackground": "buttonGrayStart",
+      "nonEditableBackground": "charcoalGray",
       "background": "spaceBlack",
       "selectionBackground": "plasmaBlue",
       "ArrowButton": {
         "iconColor": "cardboardGray",
         "disabledIconColor": "iconGray",
         "background": "spaceBlack",
-        "nonEditableBackground": "buttonGrayStart"
+        "nonEditableBackground": "charcoalGray"
       }
     },
 
@@ -168,6 +167,8 @@
       "usedBackground": "plasmaBlue",
       "allocatedBackground": "lazyGray"
     },
+
+    "Menu.background": "charcoalGray",
 
     "Notification": {
       "background": "charcoalGrayUpdate",
