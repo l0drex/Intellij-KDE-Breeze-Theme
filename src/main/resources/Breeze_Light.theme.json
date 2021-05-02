@@ -21,23 +21,31 @@
     "iconBlue": "#1d99f3",
     "abyssBlue": "#2980b9",
 
+    "iconViolet": "#9B59B6",
+    "darkerViolet": "#8E44AD",
+
     "dangerRed": "#ed1515",
     "iconRed": "#da4453",
+    "darkerRed": "#C0392B",
 
     "bewareOrange": "#f67400",
     "iconOrange": "#f47750",
+    "darkerOrange": "#D35400",
 
     "iconYellow": "#fdbc4b",
-    "sunbeamYellow": "#c9ce3b",
+    "darkerYellow": "#F39C1F",
 
     "verdantGreen": "#11d116",
     "iconGreen": "#2ecc71",
     "nobleFir": "#27ae60",
 
     "mellowTurquoise": "#1cdc9a",
+    "iconTurquoise": "#1ABC9C",
+    "darkerTurquoise": "#16A085",
 
     "titleGray": "#DEE0E2",
-    "tabGray": "#CDCFD0"
+    "tabGray": "#CDCFD0",
+    "fixedHoverBlueLight": "#8ACDF1"
   },
 
   "ui": {
