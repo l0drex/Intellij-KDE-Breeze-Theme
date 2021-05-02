@@ -6,33 +6,38 @@
   "colors": {
     "paperWhite": "#fcfcfc",
     "cardboardGray": "#eff0f1",
-    "iconGray": "#4d4d4d",
-    "charcoalGray": "#31363b",
-    "shadeBlack": "#232629",
-    "plasmaBlue": "#3daee9",
-
-    "iconRed": "#da4453",
-    "dangerRed": "#bf0303",
-    "iconOrange": "#f47750",
-    "bewareOrange": "#f67400",
-    "iconYellow": "#fdbc4b",
-
-    "sunbeamYellow": "#c9ce3b",
-    "mellowTurquoise": "#1cdc9a",
-    "iconGreen": "#2ecc71",
-    "verdantGreen": "#11d116",
-    "iconBlue": "#1d99f3",
-
     "alternateGray": "#bdc3c7",
+
     "lazyGray": "#afb0b3",
     "coastalFog": "#7f8c8d",
+
+    "iconGray": "#4d4d4d",
     "burntCharcoal": "#3b4045",
+    "charcoalGray": "#31363b",
+    "shadeBlack": "#232629",
+
     "hoverBlue": "#93cee9",
+    "plasmaBlue": "#3daee9",
     "hyperBlue": "#3daee6",
+    "iconBlue": "#1d99f3",
     "decoBlue": "#1e92ff",
     "abyssBlue": "#2980b9",
-    "nobleFir": "#27ae60",
+
+    "dangerRed": "#ed1515",
+    "iconRed": "#da4453",
     "pimpinella": "#e74c3c",
+
+    "bewareOrange": "#f67400",
+    "iconOrange": "#f47750",
+
+    "iconYellow": "#fdbc4b",
+    "sunbeamYellow": "#c9ce3b",
+
+    "verdantGreen": "#11d116",
+    "iconGreen": "#2ecc71",
+    "nobleFir": "#27ae60",
+
+    "mellowTurquoise": "#1cdc9a",
 
     "titleGray": "#DEE0E2",
     "tabGray": "#CDCFD0"
