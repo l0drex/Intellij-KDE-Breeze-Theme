@@ -216,6 +216,12 @@
       "Advertiser.background": "cardboardGray"
     },
 
+    "SearchEverywhere": {
+      "Header.background": "titleGray",
+      "Tab.selectedBackground": "paperWhite",
+      "Advertiser.background": "cardboardGray"
+    },
+
     "ScrollBar": {
       "Transparent": {
         "thumbColor": "alternateGray",
