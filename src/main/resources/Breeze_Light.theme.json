@@ -50,7 +50,7 @@
 
   "ui": {
     "*": {
-      "background": "paperWhite",
+      "background": "cardboardGray",
       "inactiveBackground": "cardboardGray",
       "disabledBackground": "cardboardGray",
 
@@ -93,7 +93,6 @@
     },
 
     "Button": {
-      "background": "cardboardGray",
       "startBackground": "cardboardGray",
       "endBackground": "#e7e8e9",
       "startBorderColor": "lazyGray",
@@ -117,8 +116,6 @@
       "ContrastBorderColor": "lazyGray"
     },
 
-    "CheckBox.background": "cardboardGray",
-
     "ComboBox": {
       "modifiedItemForeground": "plasmaBlue",
       "nonEditableBackground": "#e7e8e9",
@@ -141,14 +138,12 @@
 
     "DefaultTabs": {
       "background": "tabGray",
-      "underlinedTabBackground": "cardboardGray",
       "underlineColor": "plasmaBlue",
       "inactiveUnderlineColor": "coastalFog",
       "hoverBackground": "fixedHoverBlueLight"
     },
 
     "TabbedPane": {
-      "background": "cardboardGray",
       "underlineColor": "plasmaBlue"
     },
 
@@ -177,6 +172,8 @@
       "errorForeground": "dangerRed"
     },
 
+    "List.background": "paperWhite",
+
     "Link": {
       "activeForeground": "abyssBlue",
       "hoverForeground": "abyssBlue",
@@ -185,7 +182,8 @@
       "secondaryForeground": "abyssBlue"
     },
 
-    "Menu.background": "cardboardGray",
+    "MenuBar.background": "titleGray",
+    "PopupMenu.background": "cardboardGray",
 
     "MemoryIndicator": {
       "usedBackground": "plasmaBlue",
@@ -236,6 +234,8 @@
       "Advertiser.background": "cardboardGray"
     },
 
+    "SidePanel.background": "paperWhite",
+
     "ScrollBar": {
       "Transparent": {
         "thumbColor": "alternateGray",
@@ -246,12 +246,10 @@
       "hoverThumbColor": "plasmaBlue",
       "trackColor": "alternateGray"
     },
-
-    "Slider.background": "cardboardGray",
-
-    "Spinner.background": "cardboardGray",
-
     "TitlePane.background": "titleGray",
+
+    "TextArea.background": "paperWhite",
+    "TextPane.background": "paperWhite",
 
     "TextField": {
       "background": "paperWhite",
@@ -279,7 +277,9 @@
         "selectedBackground": "alternateGray",
         "hoverBackground": "fixedHoverBlueLight"
       }
-    }
+    },
+
+    "Tree.background": "paperWhite"
   },
 
   "icons": {
