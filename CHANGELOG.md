@@ -3,6 +3,16 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Added
+- Implementation of plugins view
+- Implementation of tables
+
+### Fixed
+- Text background in standalone popup windows is now the same as around it
+- Fixed side panel background in settings and welcome screen
+- Improved contrast in colored icons
+- Improved background of marked files / directories in project overview
+
 ## [0.0.3]
 ### Changed
 - Support for newest version of IDE
