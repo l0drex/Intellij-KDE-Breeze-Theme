@@ -261,6 +261,12 @@
       "disabledUnderlineColor": "iconGray"
     },
 
+    "Table": {
+      "background": "spaceBlack",
+      "alternativeRowBackground": "charcoalGray",
+      "gridColor": "borderColorDark"
+    },
+
     "TitlePane.background": "charcoalGray",
 
     "TextArea.background": "shadeBlack",

@@ -257,6 +257,12 @@
       "underlineColor": "plasmaBlue"
     },
 
+    "Table": {
+      "background": "paperWhite",
+      "alternativeRowBackground": "cardboardGray",
+      "gridColor": "lazyGray"
+    },
+
     "TitlePane.background": "titleGray",
 
     "TextArea.background": "paperWhite",
