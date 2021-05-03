@@ -64,7 +64,7 @@
       "acceleratorSelectionForeground": "paperWhite",
 
       "successForeground": "nobleFir",
-      "infoForeground": "abyssBlue",
+      "infoForeground": "iconGray",
       "warningForeground": "bewareOrange",
       "errorForeground": "dangerRed",
 
