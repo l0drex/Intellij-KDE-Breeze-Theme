@@ -237,6 +237,7 @@
     "SearchEverywhere": {
       "Header.background": "charcoalGray",
       "Tab.selectedBackground": "darkerCharcoalGray",
+      "Tab.selectedForeground": "paperWhite",
       "Advertiser.background": "darkerCharcoalGray"
     },
 
@@ -300,7 +301,9 @@
       }
     },
 
-    "Tree.background": "shadeBlack"
+    "Tree.background": "shadeBlack",
+
+    "WelcomeScreen.SidePanel.background": "shadeBlack"
   },
 
   "icons": {
