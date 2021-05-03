@@ -202,6 +202,23 @@
       "foreground": "cardboardGray"
     },
 
+    "Plugins": {
+      "SectionHeader.background": "charcoalGray",
+      "lightSelectionBackground": "fixedHoverBlueDark",
+      "tagBackground": "iconGray",
+      "tagForeground": "alternateGray",
+      "SearchField.background": "spaceBlack",
+      "Button": {
+        "installFillForeground": "paperWhite",
+        "installFillBackground": "plasmaBlue",
+        "installForeground": "paperWhite",
+        "installBackground": "darkerCharcoalGray",
+        "installBorderColor": "borderColorDark",
+        "updateBackground": "plasmaBlue",
+        "updateBorderColor": "plasmaBlue"
+      }
+    },
+
     "ProgressBar": {
       "progressColor": "plasmaBlue",
       "indeterminateStartColor": "plasmaBlue",
