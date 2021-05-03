@@ -3,6 +3,7 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+## [0.1.0]
 ### Added
 - Implementation of plugins view
 - Implementation of tables
