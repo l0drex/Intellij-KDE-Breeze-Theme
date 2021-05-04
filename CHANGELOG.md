@@ -6,16 +6,17 @@
 ### Added
 - Light editor scheme
 - Dark editor scheme
-- Theming for plugins section in settings
+
+## [0.1.0]
+### Added
+- Implementation of plugins view
+- Implementation of tables
 
 ### Fixed
-- Elevation in welcome screen
-
-### Changed
-- Background of buttons now matches their appearance in Plasma
-
-### Changed
-- Icon colors in light theme are now brighter
+- Text background in standalone popup windows is now the same as around it
+- Fixed side panel background in settings and welcome screen
+- Improved contrast in colored icons
+- Improved background of marked files / directories in project overview
 
 ## [0.0.3]
 ### Changed

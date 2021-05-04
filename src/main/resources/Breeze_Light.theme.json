@@ -64,7 +64,7 @@
       "acceleratorSelectionForeground": "paperWhite",
 
       "successForeground": "nobleFir",
-      "infoForeground": "abyssBlue",
+      "infoForeground": "iconGray",
       "warningForeground": "bewareOrange",
       "errorForeground": "dangerRed",
 
@@ -201,6 +201,24 @@
       "foreground": "charcoalGray"
     },
 
+    "Plugins": {
+      "background": "paperWhite",
+      "SectionHeader.background": "cardboardGray",
+      "lightSelectionBackground": "fixedHoverBlueLight",
+      "tagBackground": "#e2e5e6",
+      "tagForeground": "iconGray",
+      "SearchField.background": "paperWhite",
+      "Button": {
+        "installFillForeground": "paperWhite",
+        "installFillBackground": "plasmaBlue",
+        "installForeground": "shadeBlack",
+        "installBackground": "#e7e8e9",
+        "installBorderColor": "lazyGray",
+        "updateBackground": "plasmaBlue",
+        "updateBorderColor": "plasmaBlue"
+      }
+    },
+
     "ProgressBar": {
       "progressColor": "plasmaBlue",
       "indeterminateStartColor": "plasmaBlue",
@@ -218,7 +236,7 @@
 
     "SearchEverywhere": {
       "Header.background": "titleGray",
-      "Tab.selectedBackground": "paperWhite",
+      "Tab.selectedBackground": "cardboardGray",
       "Advertiser.background": "cardboardGray"
     },
 
@@ -237,6 +255,12 @@
 
     "TabbedPane": {
       "underlineColor": "plasmaBlue"
+    },
+
+    "Table": {
+      "background": "paperWhite",
+      "alternativeRowBackground": "cardboardGray",
+      "gridColor": "lazyGray"
     },
 
     "TitlePane.background": "titleGray",
@@ -273,7 +297,9 @@
       }
     },
 
-    "Tree.background": "paperWhite"
+    "Tree.background": "paperWhite",
+
+    "WelcomeScreen.SidePanel.background": "paperWhite"
   },
 
   "icons": {
