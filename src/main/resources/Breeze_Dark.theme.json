@@ -145,7 +145,7 @@
     },
 
     "Editor": {
-      "background": "#1b1e20",
+      "background": "spaceBlack",
       "shortcutForeground": "abyssBlue"
     },
 
