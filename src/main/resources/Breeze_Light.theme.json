@@ -45,7 +45,8 @@
 
     "titleGray": "#DEE0E2",
     "tabGray": "#CDCFD0",
-    "fixedHoverBlueLight": "#8ACDF1"
+    "fixedHoverBlueLight": "#8ACDF1",
+    "buttonGray": "#F7F7F7"
   },
 
   "ui": {
@@ -93,8 +94,8 @@
     },
 
     "Button": {
-      "startBackground": "cardboardGray",
-      "endBackground": "#e7e8e9",
+      "startBackground": "#f9f9f9",
+      "endBackground": "#f0f0f0",
       "startBorderColor": "lazyGray",
       "endBorderColor": "lazyGray",
       "focusedBorderColor": "plasmaBlue",
@@ -118,7 +119,7 @@
 
     "ComboBox": {
       "modifiedItemForeground": "plasmaBlue",
-      "nonEditableBackground": "#e7e8e9",
+      "nonEditableBackground": "buttonGray",
       "background": "paperWhite",
       "selectionBackground": "plasmaBlue",
       "disabledForeground": "coastalFog",
@@ -126,7 +127,7 @@
         "iconColor": "shadeBlack",
         "disabledIconColor": "coastalFog",
         "background": "paperWhite",
-        "nonEditableBackground": "#e7e8e9"
+        "nonEditableBackground": "buttonGray"
       }
     },
 
@@ -187,12 +188,15 @@
       "errorForeground": "dangerRed",
 
       "ToolWindow": {
-        "informativeForeground": "charcoalGray",
-        "informativeBackground": "verdantGreen",
-        "warningForeground": "charcoalGray",
-        "warningBackground": "bewareOrange",
-        "errorForeground": "cardboardGray",
-        "errorBackground": "dangerRed"
+        "informativeBackground": "#cbe3f0",
+        "informativeBorderColor": "iconBlue",
+        "informativeForeground": "shadeBlack",
+        "warningBackground": "#f0d7c1",
+        "warningBorderColor": "bewareOrange",
+        "warningForeground": "shadeBlack",
+        "errorBackground": "#ebced2",
+        "errorBorderColor": "iconRed",
+        "errorForeground": "shadeBlack"
       }
     },
 
@@ -212,7 +216,7 @@
         "installFillForeground": "paperWhite",
         "installFillBackground": "plasmaBlue",
         "installForeground": "shadeBlack",
-        "installBackground": "#e7e8e9",
+        "installBackground": "buttonGray",
         "installBorderColor": "lazyGray",
         "updateBackground": "plasmaBlue",
         "updateBorderColor": "plasmaBlue"
@@ -222,7 +226,7 @@
     "ProgressBar": {
       "progressColor": "plasmaBlue",
       "indeterminateStartColor": "plasmaBlue",
-      "indeterminateEndColor": "fixedHoverBlueLight",
+      "indeterminateEndColor": "#badcef",
       "failedColor": "dangerRed",
       "passedColor": "verdantGreen"
     },
@@ -251,6 +255,14 @@
       "thumbColor": "alternateGray",
       "hoverThumbColor": "plasmaBlue",
       "trackColor": "alternateGray"
+    },
+
+    "Slider": {
+      "trackColor": "#b2b3b4",
+      "buttonColor": "cardboardGray",
+      "buttonBorderColor": "#9c9c9e",
+      "focus": "plasmaBlue",
+      "highlight": "plasmaBlue"
     },
 
     "TabbedPane": {
