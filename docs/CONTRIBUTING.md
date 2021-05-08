@@ -73,3 +73,12 @@ There are many test dialogs to try out, here are some important ones:
 - Validation Dialog Test
 - Test notification
 - Test progress indicators
+
+### ❔ More information
+If you want to know more, here are some useful links you can use:
+
+- [JetBrains documentation on how to create custom UI themes](https://plugins.jetbrains.com/docs/intellij/themes.html)
+- [Official listing of all UI components](https://plugins.jetbrains.com/docs/intellij/user-interface-components.html), useful to find the names of a specific thing
+- [Official documentation of Breeze](https://develop.kde.org/hig/)
+- Not a link, but a [gallery of all UI components used in plasma](https://apps.kde.org/kirigami2.gallery/) (ok, it still is a link)
+- A [mockup created in inkscape](https://community.kde.org/KDE_Visual_Design_Group/HIG/MockupToolkit) for the Breeze theme
