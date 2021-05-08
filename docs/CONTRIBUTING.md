@@ -1,7 +1,7 @@
 # How to Contribute
 This page contains information related to the development of this theme. If you want to contribute by submitting code or notify the developers about issues you experienced, this page is for you!
 
-> Hint for pros: A lot of the emojis are linked to useful sites, so you can use them as a button!
+> [💡](https://youtu.be/dQw4w9WgXcQ) Hint for pros: Sometimes, the emojis are linked to useful sites, so you can use them as a button!
 
 ## Creating Issues
 This section covers the process on how to create an issue.
@@ -39,7 +39,7 @@ since these are issues that can't be resolved.
 If you don't see the issue that you want to adress there, create a new issue and mention that you want to fix this by yourself.
 This ensures others aren't working on the same thing at the same time, resulting in duplicated pull requests.
 
-If you have any questions regarding the code, checkout the wiki [ 📖](https://github.com/l0drex/Intellij-KDE-Breeze-Theme/wiki).
+If you have any questions regarding the code, checkout the wiki [📖](https://github.com/l0drex/Intellij-KDE-Breeze-Theme/wiki).
 
 ### 💻 How to work on this theme
 This section covers the process on how to propose changes to this theme.
@@ -59,8 +59,13 @@ This section covers the process on how to propose changes to this theme.
       5. Select your renamed file.
       6. Have fun! 🎉
 4. Check out how the theme looks (see _Testing_ for editor color schemes).
-5. Push your changes to your repository.
-6. Mark the pull request as _ready for review_.
+5. Commit your change. Every commit must only contain changes that can be described with one note (for example _Fix background color of buttons_).
+   Commit messages should be short while providing a clear description of what has been changed. They must start with a capital `A` and should start with a verb.
+   If the commit fixes a specific issue, you can write `Fix #ID`, where ID is the ID of the issue. This will close the mentioned issue
+   once the commit goes into the main branch.
+   > [💡](https://github.blog/changelog/2021-02-08-github-actions-skip-pull-request-and-push-workflows-with-skip-ci/) If you are a developer and push directly into the main branch, you can start your message with `[skip actions]` to skip the action workflow that runs tests. This is especially usefull since the workflow takes some time. Only use this for documentation or if you already tested the code locally.
+7. Push your commits to your repository.
+8. Mark the pull request as _ready for review_.
 
 ### ✔️ Testing
 This section covers the process of testing out UI schemes. To preview an editor scheme, hitting apply in the color scheme section of the settings menu is enough.
