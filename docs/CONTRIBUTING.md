@@ -57,7 +57,7 @@ This section covers the process on how to propose changes to this theme.
       3. In the intellij IDE, go to <kbd>File</kbd> → <kbd>Editor</kbd> → <kbd>Color Scheme</kbd>
       4. Select <kbd>⚙️</kbd> → <kbd>Import Scheme </kbd> → <kbd>Intellij IDEA color scheme </kbd>
       5. Select your renamed file.
-      6. Enjoy the GUI! 🎉
+      6. Have fun! 🎉
 4. Check out how the theme looks (see _Testing_ for editor color schemes).
 5. Push your changes to your repository.
 6. Mark the pull request as _ready for review_.
