@@ -1,26 +1,18 @@
 # Intellij-KDE-Breeze-Theme
 
 ![Build](https://github.com/l0drex/Intellij-KDE-Breeze-Theme/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-
-## Template ToDo list
-- [x] Create a new [IntelliJ Platform Plugin Template][template] project.
-- [x] Verify the [pluginGroup](/gradle.properties), [plugin ID](/src/main/resources/META-INF/plugin.xml) and [sources package](/src/main/kotlin).
-- [x] Review the [Legal Agreements](https://plugins.jetbrains.com/docs/marketplace/legal-agreements.html).
-- [ ] [Publish a plugin manually](https://plugins.jetbrains.com/docs/intellij/publishing-plugin.html?from=IJPluginTemplate) for the first time.
-- [ ] Set the Plugin ID in the above README badges.
-- [ ] Set the [Deployment Token](https://plugins.jetbrains.com/docs/marketplace/plugin-upload.html).
-- [x] Click the <kbd>Watch</kbd> button on the top of the [IntelliJ Platform Plugin Template][template] to be notified about releases containing new features and fixes.
+[![Version](https://img.shields.io/jetbrains/plugin/v/16605-kde-breeze-theme.svg)](https://plugins.jetbrains.com/plugin/16605-kde-breeze-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/16605-kde-breeze-theme.svg)](https://plugins.jetbrains.com/plugin/16605-kde-breeze-theme)
 
 <!-- Plugin description -->
-This plugin adds the default theme of KDE Plasma, [Breeze](https://hig.kde.org/style/color/default.html), to Intellij IDEs.
+This plugin adds the default theme of KDE Plasma, [Breeze](https://develop.kde.org/hig/style/color/default/), to Intellij IDEs.
 It consists of the 
 - Breeze Light Theme
 - Breeze Dark Theme
 
-Currently, it only contains the ui themes, but editor color schemes and custom icons and backgrounds
-is planned for future releases.
+Currently, it only contains the UI themes, but editor color schemes and custom icons are planned for future releases.
+
+Feel free to leave a review on https://plugins.jetbrains.com/plugin/16605-kde-breeze-theme/reviews.
 <!-- Plugin description end -->
 
 ## Installation
