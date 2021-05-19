@@ -4,7 +4,7 @@
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
     <property name="modified">2021-05-19T22:44:21</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="originalScheme">Breeze Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="276946" />
