@@ -1,9 +1,9 @@
 <scheme name="Breeze Light copy" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-05-19T21:35:04</property>
+    <property name="created">2021-05-19T22:35:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-05-19T21:35:21</property>
+    <property name="modified">2021-05-19T22:36:08</property>
     <property name="originalScheme">Breeze Light copy</property>
   </metaInfo>
   <colors>
@@ -523,7 +523,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="b08000" />
+        <option name="FOREGROUND" value="57ae" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -832,8 +832,9 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d35400" />
+        <option name="EFFECT_COLOR" value="d35400" />
         <option name="ERROR_STRIPE_COLOR" value="f9c597" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -1057,7 +1058,7 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="95ff" />
+        <option name="FOREGROUND" value="57ae" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1112,8 +1113,8 @@
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d35400" />
-        <option name="BACKGROUND" value="f9c7b7" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="d35400" />
         <option name="ERROR_STRIPE_COLOR" value="f67400" />
         <option name="EFFECT_TYPE" value="1" />
       </value>

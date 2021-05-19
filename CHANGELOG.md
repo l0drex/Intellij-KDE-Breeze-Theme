@@ -3,6 +3,10 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Added
+- Light editor scheme
+- Dark editor scheme
+
 ### Changed
 - Updated some colors to those actually used in plasma
 
