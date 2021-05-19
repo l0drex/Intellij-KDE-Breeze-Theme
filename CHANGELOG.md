@@ -3,6 +3,9 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Changed
+- Updated some colors to those actually used in plasma
+
 ## [0.1.0]
 ### Added
 - Implementation of plugins view
