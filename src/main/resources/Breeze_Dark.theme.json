@@ -9,7 +9,7 @@
     "alternateGray": "#bdc3c7",
 
     "lazyGray": "#afb0b3",
-    "coastalFog": "#7f8c8d",
+    "coastalFog": "#a1a9b1",
 
     "iconGray": "#4d4d4d",
     "burntCharcoal": "#3b4045",
@@ -57,24 +57,25 @@
       "background": "darkerCharcoalGray",
       "inactiveBackground": "darkerCharcoalGray",
       "disabledBackground": "darkerCharcoalGray",
+
       "foreground": "paperWhite",
       "disabledForeground": "coastalFog",
       "inactiveForeground": "coastalFog",
       "disabledText": "coastalFog",
 
-      "acceleratorSelectionForeground": "paperWhite",
-
-      "successForeground": "verdantGreen",
+      "successForeground": "nobleFir",
       "infoForeground": "alternateGray",
       "warningForeground": "bewareOrange",
-      "errorForeground": "dangerRed",
+      "errorForeground": "iconRed",
 
       "selectionBackground":  "plasmaBlue",
-      "selectionForeground": "paperWhite",
-      "selectionBackgroundInactive": "fixedHoverBlueDark",
       "selectionInactiveBackground": "fixedHoverBlueDark",
-      "selectionForegroundInactive": "cardboardGray",
+      "selectionBackgroundInactive": "fixedHoverBlueDark",
+
+      "selectionForeground": "paperWhite",
+      "acceleratorSelectionForeground": "paperWhite",
       "selectionInactiveForeground": "cardboardGray",
+      "selectionForegroundInactive": "cardboardGray",
 
       "modifiedItemForeground": "plasmaBlue",
 
@@ -174,7 +175,7 @@
       "activeForeground": "abyssBlue",
       "hoverForeground": "abyssBlue",
       "pressedForeground": "abyssBlue",
-      "visitedForeground": "alternateGray",
+      "visitedForeground": "iconViolet",
       "secondaryForeground": "iconBlue"
     },
 
@@ -188,12 +189,15 @@
       "errorForeground": "dangerRed",
 
       "ToolWindow": {
-        "informativeForeground": "charcoalGray",
-        "informativeBackground": "verdantGreen",
-        "warningForeground": "charcoalGray",
-        "warningBackground": "bewareOrange",
-        "errorForeground": "cardboardGray",
-        "errorBackground": "dangerRed"
+        "informativeBackground": "#2a483b",
+        "informativeBorderColor": "nobleFir",
+        "informativeForeground": "paperWhite",
+        "warningBackground": "#533c28",
+        "warningBorderColor": "bewareOrange",
+        "warningForeground": "paperWhite",
+        "errorBackground": "#4e3339",
+        "errorBorderColor": "iconRed",
+        "errorForeground": "paperWhite"
       }
     },
 

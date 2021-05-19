@@ -9,7 +9,7 @@
     "alternateGray": "#bdc3c7",
 
     "lazyGray": "#afb0b3",
-    "coastalFog": "#7f8c8d",
+    "coastalFog": "#707d8a",
 
     "iconGray": "#4d4d4d",
     "burntCharcoal": "#3b4045",
@@ -46,7 +46,8 @@
     "titleGray": "#DEE0E2",
     "tabGray": "#CDCFD0",
     "fixedHoverBlueLight": "#8ACDF1",
-    "buttonGray": "#F7F7F7"
+    "buttonGray": "#F7F7F7",
+    "popupMenuGray": "#F4F5F5"
   },
 
   "ui": {
@@ -62,17 +63,17 @@
       "inactiveForeground": "coastalFog",
       "disabledText": "coastalFog",
 
-      "acceleratorSelectionForeground": "paperWhite",
-
       "successForeground": "nobleFir",
       "infoForeground": "iconGray",
       "warningForeground": "bewareOrange",
-      "errorForeground": "dangerRed",
+      "errorForeground": "iconRed",
 
       "selectionBackground":  "plasmaBlue",
-      "selectionForeground": "paperWhite",
       "selectionInactiveBackground": "fixedHoverBlueLight",
       "selectionBackgroundInactive": "fixedHoverBlueLight",
+
+      "selectionForeground": "paperWhite",
+      "acceleratorSelectionForeground": "paperWhite",
       "selectionInactiveForeground": "cardboardGray",
       "selectionForegroundInactive": "cardboardGray",
 
@@ -174,7 +175,7 @@
       "activeForeground": "abyssBlue",
       "hoverForeground": "abyssBlue",
       "pressedForeground": "abyssBlue",
-      "visitedForeground": "coastalFog",
+      "visitedForeground": "iconViolet",
       "secondaryForeground": "abyssBlue"
     },
 
@@ -188,8 +189,8 @@
       "errorForeground": "dangerRed",
 
       "ToolWindow": {
-        "informativeBackground": "#cbe3f0",
-        "informativeBorderColor": "iconBlue",
+        "informativeBackground": "#c7e3d4",
+        "informativeBorderColor": "nobleFir",
         "informativeForeground": "shadeBlack",
         "warningBackground": "#f0d7c1",
         "warningBorderColor": "bewareOrange",
@@ -311,7 +312,8 @@
 
     "Tree.background": "paperWhite",
 
-    "WelcomeScreen.SidePanel.background": "paperWhite"
+    "WelcomeScreen.SidePanel.background": "paperWhite",
+    "WelcomeScreen.Projects.actions.background": "lazyGray"
   },
 
   "icons": {
