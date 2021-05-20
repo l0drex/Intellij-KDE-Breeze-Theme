@@ -3,6 +3,9 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Added
+- Custom icons for light and dark theme
+
 ## [0.2.0]
 ### Added
 - Light editor scheme
