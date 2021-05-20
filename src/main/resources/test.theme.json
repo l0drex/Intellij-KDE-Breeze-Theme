@@ -8,6 +8,7 @@
 
   "icons": {
     "ColorPalette": {
+      "Actions.GreyInline.Dark": "#ffff00",
       "Checkbox.Background.Default": "#00ff00",
       "Checkbox.Background.Default.Dark": "#00ff00",
       "Checkbox.Background.Selected": "#ff00ff",
