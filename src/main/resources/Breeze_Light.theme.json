@@ -359,16 +359,20 @@
 
     "/general/gearPlain.svg": "/icons/actions/16/configure.svg",
     "/general/gearHover.svg": "/icons/actions/16/configure.svg",
-    "/general/hideToolWindow.svg": "/icons/actions/16/view-hidden.svg",
+    "/general/hideToolWindow.svg": "/icons/actions/16/go-down.svg",
     "/general/add.svg": "/icons/actions/16/list-add.svg",
     "/general/remove.svg": "/icons/actions/16/list-remove.svg",
+    "/general/contextHelp.svg": "/icons/actions/16/help-whatsthis.svg",
     "/general/filter.svg": "/icons/actions/16/view-filter.svg",
     "/general/locate.svg": "/icons/actions/16/find-locations.svg",
     "/general/projectTab.svg": "/icons/actions/16/project-development.svg",
     "/general/pin_tab.svg": "/icons/actions/16/window-pin.svg",
-    "/general/tbHidden.svg": "/icons/actions/16/view-hidden.svg",
+    "/general/tbShown.svg": "/icons/actions/16/sidebar-expand-left.svg",
+    "/general/tbHidden.svg": "/icons/actions/16/sidebar-sidebar-collapse-left.svg",
     "/general/settings.svg": "/icons/actions/16/configure.svg",
     "/general/print.svg": "/icons/actions/16/document-print.svg",
+    "/actions/moveUp.svg": "/icons/actions/16/go-up.svg",
+    "/actions/moveDown.svg": "/icons/actions/16/go-down.svg",
     "/actions/gc.svg": "/icons/actions/16/edit-delete.svg",
     "/actions/groupBy.svg": "/icons/actions/16/view-group.svg",
     "/actions/find.svg": "/icons/actions/16/edit-find.svg",
@@ -400,6 +404,8 @@
     "/actions/undo.svg": "/icons/actions/16/edit-undo.svg",
     "/actions/redo.svg": "/icons/actions/16/edit-redo.svg",
     "/actions/selectAll.svg": "/icons/actions/16/edit-select-all.svg",
+    "/actions/unselectall.svg": "/icons/actions/kdenlive-unselect-all.svg",
+    "/actions/addFile.svg": "/icons/actions/16/document-new.svg",
     "/actions/dump.svg": "/icons/devices/16/camera-photo.svg",
     "/actions/menu-cut.svg": "/icons/actions/16/edit-cut.svg",
     "/actions/pause.svg": "/icons/actions/16/media-playback-pause.svg",
@@ -425,6 +431,7 @@
     "/vcs/branch.svg": "/icons/actions/16/vcs-branch.svg",
     "/vcs/merge.svg": "/icons/actions/16/vcs-merge.svg",
     "/vcs/patch.svg": "/icons/mimetypes/16/text-x-patch.svg",
+    "/vcs/changelist.svg": "/icons/actions/16/view-list-text.svg",
     "/icons/currentBranchLabel.svg": "/icons/actions/16.svg",
     "/org/jetbrains/plugins/github/pullRequestsToolWindow.svg": "/icons/actions/16/vcs-merge-request.svg",
 
@@ -447,6 +454,7 @@
     "/ide/readonly.svg": "/icons/actions/16/view-readermode.svg",
     "/ide/notification/infoEvents.svg": "/icons/status/16/dialog-information.svg",
     "/ide/notification/pluginUpdate.svg": "/icons/status/16/update-low.svg",
+    "/ide/notification/expandHover.svg": "/icons/actions/16/expand-all.svg",
 
     "/runConfiguration/showPassed.svg": "/icons/actions/16/dialog-ok-apply.svg",
     "/runConfiguration/testError.svg": "/icons/actions/16/dialog-error.svg",
@@ -457,6 +465,7 @@
     "/welcome/open.svg": "/icons/actions/16/folder-open.svg",
     "/welcome/fromVCSTab.svg": "/icons/actions/16/document-open-remote.svg",
     "/plugins/downloads.svg": "/icons/actions/16/edit-download.svg",
-    "/icons/task.svg": "/icons/actions/16/view-task.svg"
+    "/icons/task.svg": "/icons/actions/16/view-task.svg",
+    "/objectBrowser/sorted.svg": "/icons/actions/16/view-sort.svg"
   }
 }
