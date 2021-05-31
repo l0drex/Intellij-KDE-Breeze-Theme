@@ -434,8 +434,18 @@
     "/diff/magicResolveToolbar.svg": "/icons/actions/16/autocorrections.svg",
     "/diff/revert.svg": "/icons/actions/16/edit-undo.svg",
 
+    "/fileTypes/any_type.svg": "/icons/mimetypes/16/text-x-generic.svg",
+    "/fileTypes/archive.svg": "/icons/mimetypes/16/application-zip.svg",
+    "/fileTypes/css.svg": "/icons/mimetypes/16/text-css.svg",
+    "/fileTypes/html.svg": "/icons/mimetypes/16/text-html.svg",
+    "/fileTypes/java.svg": "/icons/mimetypes/16/application-x-java.svg",
+    "/fileTypes/javaScript.svg": "/icons/mimetypes/16/application-x-javascript.svg",
     "/fileTypes/json.svg": "/icons/mimetypes/16/application-json.svg",
+    "/fileTypes/plistFile.svg": "/icons/mimetypes/16/text-x-changelog.svg",
     "/fileTypes/text.svg": "/icons/mimetypes/16/text-x-generic.svg",
+    "/fileTypes/uiForm.svg": "/icons/mimetypes/16/application-x-designer.svg",
+    "/fileTypes/unknown.svg": "/icons/mimetypes/16/application-octet-stream.svg",
+    "/fileTypes/xhtml.svg": "/icons/mimetypes/16/application-xhtml+xml.svg",
     "/fileTypes/xml.svg": "/icons/mimetypes/16/text-xml.svg",
 
     "/ide/readonly.svg": "/icons/actions/16/view-readermode.svg",
