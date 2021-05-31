@@ -507,11 +507,16 @@
     "/icons/shFile.svg": "/icons/mimetypes/16/text-x-script.svg",
     "/icons/task.svg": "/icons/actions/16/view-task.svg",
 
+    "/ide/pipette.svg": "/icons/actions/16/color-picker.svg",
+    "/ide/powerSaveMode.svg": "/icons/status/16/battery-030.svg",
+    "/ide/rating.svg": "/icons/emblems/16/rating.svg",
     "/ide/readonly.svg": "/icons/actions/16/view-readermode.svg",
     "/ide/readwrite.svg": "/icons/actions/16/document-edit-sign.svg",
-    "/ide/notification/expandHover.svg": "/icons/actions/16/expand-all.svg",
-    "/ide/notification/infoEvents.svg": "/icons/status/16/dialog-information.svg",
-    "/ide/notification/pluginUpdate.svg": "/icons/status/16/update-low.svg",
+
+    "/ide/notification/close.svg": "/icons/actions/16/window-close.svg",
+    "/ide/notification/collapse.svg": "/icons/actions/16/go-up.svg",
+    "/ide/notification/expand.svg": "/icons/actions/16/go-down.svg",
+    "/ide/notification/gear.svg": "/icons/actions/16/configure.svg",
 
     "/modules/excludeRoot.svg": "/icons/places/16/folder-red.svg",
     "/modules/sourceRoot.svg": "/icons/places/16/folder-blue.svg",
