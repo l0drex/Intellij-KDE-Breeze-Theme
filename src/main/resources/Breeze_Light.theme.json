@@ -414,6 +414,17 @@
     "/chooser/top.svg": "/icons/actions/16/go-up.svg",
 
     "/codeWithMe/cwmAccess.svg": "/icons/actions/16/user-group-new.svg",
+    "/codeWithMe/cwmCamOff.svg": "/icons/status/16/camera-off.svg",
+    "/codeWithMe/cwmCamOn.svg": "/icons/status/16/camera-on.svg",
+    "/codeWithMe/cwmDisableCall.svg": "/icons/status/16/call-stop.svg",
+    "/codeWithMe/cwmEnableCall.svg": "/icons/status/16/call-start.svg",
+    "/codeWithMe/cwmInvite.svg": "/icons/actions/16/link.svg",
+    "/codeWithMe/cwmJoin.svg": "/icons/actions/16/list-add-user.svg",
+    "/codeWithMe/cwmLeaveCall.svg": "/icons/actions/16/call-stop.svg",
+    "/codeWithMe/cwmMicOff.svg": "/icons/status/16/mic-off.svg",
+    "/codeWithMe/cwmMicOn.svg": "/icons/status/16/mic-on.svg",
+    "/codeWithMe/cwmPermissions.svg": "/icons/status/16/security-low.svg",
+    "/codeWithMe/users.svg": "/icons/actions/16/user-group-new.svg",
 
     "/debugger/restoreLayout.svg": "/icons/actions/16/view-restore.svg",
 
