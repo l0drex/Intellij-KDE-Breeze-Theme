@@ -493,6 +493,11 @@
     "/general/zoomIn.svg": "/icons/actions/16/zoom-in.svg",
     "/general/zoomOut.svg": "/icons/actions/16/zoom-out.svg",
 
+    "/graph/actualZoom.svg": "/icons/actions/16/zoom-original.svg",
+    "/graph/grid.svg": "/icons/actions/16/grid-rectangular.svg",
+    "/graph/zoomIn.svg": "/icons/actions/16/zoom-in.svg",
+    "/graph/zoomOut.svg": "/icons/actions/16/zoom-out.svg",
+
     "/ide/readonly.svg": "/icons/actions/16/view-readermode.svg",
     "/ide/readwrite.svg": "/icons/actions/16/document-edit-sign.svg",
     "/ide/notification/expandHover.svg": "/icons/actions/16/expand-all.svg",
