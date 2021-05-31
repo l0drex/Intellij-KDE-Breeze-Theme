@@ -406,7 +406,12 @@
     "/actions/traceInto.svg": "/icons/actions/16/debug-step-into.svg",
     "/actions/toggleSoftWrap.svg": "/icons/actions/16/text-wrap.svg",
     "/actions/undo.svg": "/icons/actions/16/edit-undo.svg",
-    "/actions/unselectall.svg": "/icons/actions/kdenlive-unselect-all.svg",
+    "/actions/unselectall.svg": "/icons/actions/22/kdenlive-unselect-all.svg",
+
+    "/chooser/bottom.svg": "/icons/actions/16/go-down.svg",
+    "/chooser/left.svg": "/icons/actions/16/go-previous.svg",
+    "/chooser/right.svg": "/icons/actions/16/go-next.svg",
+    "/chooser/top.svg": "/icons/actions/16/go-up.svg",
 
     "/codeWithMe/cwmAccess.svg": "/icons/actions/16/user-group-new.svg",
 
