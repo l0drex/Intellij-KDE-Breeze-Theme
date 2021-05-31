@@ -428,6 +428,12 @@
 
     "/debugger/restoreLayout.svg": "/icons/actions/16/view-restore.svg",
 
+    "/diff/remove.svg": "/icons/actions/16/edit-delete.svg",
+    "/diff/lock.svg": "/icons/actions/16/document-encrypted.svg",
+    "/diff/magicResolve.svg": "/icons/actions/16/autocorrections.svg",
+    "/diff/magicResolveToolbar.svg": "/icons/actions/16/autocorrections.svg",
+    "/diff/revert.svg": "/icons/actions/16/edit-undo.svg",
+
     "/fileTypes/json.svg": "/icons/mimetypes/16/application-json.svg",
     "/fileTypes/text.svg": "/icons/mimetypes/16/text-x-generic.svg",
     "/fileTypes/xml.svg": "/icons/mimetypes/16/text-xml.svg",
