@@ -498,12 +498,6 @@
     "/graph/zoomIn.svg": "/icons/actions/16/zoom-in.svg",
     "/graph/zoomOut.svg": "/icons/actions/16/zoom-out.svg",
 
-    "/ide/readonly.svg": "/icons/actions/16/view-readermode.svg",
-    "/ide/readwrite.svg": "/icons/actions/16/document-edit-sign.svg",
-    "/ide/notification/expandHover.svg": "/icons/actions/16/expand-all.svg",
-    "/ide/notification/infoEvents.svg": "/icons/status/16/dialog-information.svg",
-    "/ide/notification/pluginUpdate.svg": "/icons/status/16/update-low.svg",
-
     "/icons/actions/force_run_to_cursor.svg": "/icons/actions/16/debug-execute-to-cursor.svg",
     "/icons/actions/force_step_into.svg": "/icons/actions/16/debug-step-into.svg",
     "/icons/actions/force_step_over.svg": "/icons/actions/16/debug-step-over.svg",
@@ -512,6 +506,12 @@
     "/icons/OpenTerminal_13x13.svg": "/icons/apps/16/utilities-terminal.svg",
     "/icons/shFile.svg": "/icons/mimetypes/16/text-x-script.svg",
     "/icons/task.svg": "/icons/actions/16/view-task.svg",
+
+    "/ide/readonly.svg": "/icons/actions/16/view-readermode.svg",
+    "/ide/readwrite.svg": "/icons/actions/16/document-edit-sign.svg",
+    "/ide/notification/expandHover.svg": "/icons/actions/16/expand-all.svg",
+    "/ide/notification/infoEvents.svg": "/icons/status/16/dialog-information.svg",
+    "/ide/notification/pluginUpdate.svg": "/icons/status/16/update-low.svg",
 
     "/modules/excludeRoot.svg": "/icons/places/16/folder-red.svg",
     "/modules/sourceRoot.svg": "/icons/places/16/folder-blue.svg",
