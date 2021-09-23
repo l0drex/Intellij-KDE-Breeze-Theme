@@ -3,6 +3,9 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Changed
+- Support for newest version
+
 ## [0.2.0]
 ### Added
 - Light editor scheme
