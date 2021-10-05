@@ -3,6 +3,8 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+
+## [0.2.1]
 ### Changed
 - Support for newest version
 
@@ -30,6 +32,7 @@
 - Support for newest version of IDE
 - Updated dependencies
   
+
 ### Fixed
 - Background of excluded folders is now darker for better readability in dark theme
 - Button background gradient in dark theme is now more visible
