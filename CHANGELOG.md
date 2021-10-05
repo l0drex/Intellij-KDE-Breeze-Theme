@@ -6,6 +6,10 @@
 ### Added
 - Custom icons for light and dark theme
 
+## [0.2.1]
+### Changed
+- Support for newest version
+
 ## [0.2.0]
 ### Added
 - Light editor scheme
