@@ -5,6 +5,7 @@
 ## [Unreleased]
 ### Added
 - Custom icons for light and dark theme
+- Support for newest IDE version
 
 ## [0.2.1]
 ### Changed
