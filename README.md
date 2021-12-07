@@ -10,7 +10,7 @@ It consists of the
 - Breeze Light Theme
 - Breeze Dark Theme
 
-It currently contains themes for the UI and the editor. Custom icons are planned.
+These themes include styling of the UI and the editor as well as custom icons.
 
 Feel free to leave a review on https://plugins.jetbrains.com/plugin/16605-kde-breeze-theme/reviews.
 <!-- Plugin description end -->
