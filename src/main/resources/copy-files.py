@@ -28,13 +28,18 @@ def copy_files():
 
     print("Copying file from the breeze-icons to this project")
 
+    icons_added = 0
+
     for image in image_paths():
         if not isfile("." + image):
             try:
                 copyfile(breeze_icons_path + image, "." + image)
+                icons_added += 1
             except FileNotFoundError as e:
                 print("Invalid path found:", image)
                 raise e
+
+    print(f"Added {icons_added if icons_added else 'no'} new icons")
 
 
 def dark_icons():
