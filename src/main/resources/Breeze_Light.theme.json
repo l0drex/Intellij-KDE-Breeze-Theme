@@ -586,7 +586,7 @@
     "/modules/sourceRoot.svg":  "/icons/places/16/folder-blue.svg",
 
     "/nodes/favorites.svg": "/icons/emblems/16/rating.svg",
-    "/nodes/folder.svg":    "/icons/places/16/folder-black.svg",
+    "/nodes/folder.svg":    "/icons/actions/16/document-open.svg",
 
     "/objectBrowser/sorted.svg": "/icons/actions/16/view-sort.svg",
 
@@ -606,7 +606,7 @@
     "/toolwindows/toolWindowFavorites.svg":     "/icons/places/16/folder-favorites.svg",
     "/toolwindows/toolWindowFind.svg":          "/icons/actions/16/edit-find.svg",
     "/toolwindows/toolWindowHierarchy.svg":     "/icons/actions/16/view-list-tree.svg",
-    "/toolwindows/toolWindowProject.svg":       "/icons/places/16/folder-black.svg",
+    "/toolwindows/toolWindowProject.svg":       "/icons/actions/16/document-open.svg",
     "/toolwindows/toolWindowProblemsEmpty.svg": "/icons/status/16/dialog-warning.svg",
     "/toolwindows/toolWindowRun.svg":           "/icons/actions/16/system-run.svg",
     "/toolwindows/toolWindowStructure.svg":     "/icons/actions/16/view-list-tree.svg",
