@@ -3,6 +3,8 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+
+## [0.3.1]
 ### Fixed
 - Overlapping icons in some tool windows
 
