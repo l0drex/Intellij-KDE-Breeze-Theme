@@ -500,7 +500,6 @@
     "/general/collapseComponent.svg":  "/icons/actions/16/collapse-all.svg",
     "/general/contextHelp.svg":        "/icons/actions/16/help-whatsthis.svg",
     "/general/divider.svg":            "/icons/actions/16/filename-divider.svg",
-    "/general/dropdown.svg":           "/icons/actions/16/go-down.svg",
     "/general/error.svg":              "/icons/status/16/data-error.svg",
     "/general/errorDialog.svg":        "/icons/status/22/dialog-error.svg",
     "/general/expandComponent.svg":    "/icons/actions/16/expand-all.svg",
