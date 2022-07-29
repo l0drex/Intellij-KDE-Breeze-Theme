@@ -1,10 +1,10 @@
 <scheme name="Breeze Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-05-19T22:44:11</property>
+    <property name="created">2022-07-29T17:15:43</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-05-19T22:44:21</property>
-    <property name="originalScheme">Breeze Dark</property>
+    <property name="ideVersion">2022.1.4.0.0</property>
+    <property name="modified">2022-07-29T17:15:53</property>
+    <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="276946" />
@@ -792,7 +792,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2d5c76" />
+        <option name="BACKGROUND" value="30455b" />
         <option name="ERROR_STRIPE_COLOR" value="3daee9" />
       </value>
     </option>
@@ -1074,7 +1074,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="da4453" />
+        <option name="BACKGROUND" value="205050" />
         <option name="EFFECT_COLOR" value="da4453" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
