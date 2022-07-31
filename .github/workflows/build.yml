@@ -37,6 +37,8 @@ jobs:
       - name: Fetch Sources
         uses: actions/checkout@v2.4.0
 
+      - run: df
+
       # Validate wrapper
       - name: Gradle Wrapper Validation
         uses: gradle/wrapper-validation-action@v1.0.4
@@ -48,6 +50,8 @@ jobs:
           distribution: zulu
           java-version: 11
           cache: gradle
+
+      - run: df
 
       # Set environment variables
       - name: Export Properties
@@ -69,6 +73,8 @@ jobs:
 
           ./gradlew listProductsReleases # prepare list of IDEs for Plugin Verifier
 
+      - run: df
+
       # Run tests
       - name: Run Tests
         run: ./gradlew test
@@ -87,6 +93,8 @@ jobs:
         with:
           path: ${{ steps.properties.outputs.pluginVerifierHomeDir }}/ides
           key: plugin-verifier-${{ hashFiles('build/listProductsReleases.txt') }}
+
+      - run: df
 
       # Run Verify Plugin task and IntelliJ Plugin Verifier tool
       - name: Run Plugin Verification tasks
