@@ -103,8 +103,6 @@ jobs:
       - name: Make space for next tasks
         run: rm -r ~/.pluginVerifier/ides
 
-      - run: df
-
       # Run Qodana inspections
       - name: Qodana - Code Inspection
         uses: JetBrains/qodana-action@v4.2.5

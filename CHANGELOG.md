@@ -3,6 +3,9 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Fixed
+- Add support for latest release
+- Fix selection color being the same as background color of symbol under caret
 
 ## [0.3.1]
 ### Fixed
