@@ -16,7 +16,7 @@ name: Build
 on:
   # Trigger the workflow on pushes to only the 'main' branch (this avoids duplicate checks being run e.g. for dependabot pull requests)
   push:
-    branches: [main]
+    branches: [ main ]
   # Trigger the workflow on any pull request
   pull_request:
 
@@ -37,8 +37,6 @@ jobs:
       - name: Fetch Sources
         uses: actions/checkout@v2.4.0
 
-      - run: df
-
       # Validate wrapper
       - name: Gradle Wrapper Validation
         uses: gradle/wrapper-validation-action@v1.0.4
@@ -50,8 +48,6 @@ jobs:
           distribution: zulu
           java-version: 11
           cache: gradle
-
-      - run: df
 
       # Set environment variables
       - name: Export Properties
@@ -73,8 +69,6 @@ jobs:
 
           ./gradlew listProductsReleases # prepare list of IDEs for Plugin Verifier
 
-      - run: df
-
       # Run tests
       - name: Run Tests
         run: ./gradlew test
@@ -94,8 +88,6 @@ jobs:
           path: ${{ steps.properties.outputs.pluginVerifierHomeDir }}/ides
           key: plugin-verifier-${{ hashFiles('build/listProductsReleases.txt') }}
 
-      - run: df
-
       # Run Verify Plugin task and IntelliJ Plugin Verifier tool
       - name: Run Plugin Verification tasks
         run: ./gradlew runPluginVerifier -Pplugin.verifier.home.dir=${{ steps.properties.outputs.pluginVerifierHomeDir }}
@@ -107,6 +99,9 @@ jobs:
         with:
           name: pluginVerifier-result
           path: ${{ github.workspace }}/build/reports/pluginVerifier
+
+      - name: Make space for next tasks
+        run: rm -r "~/.pluginVerifier/ides"
 
       - run: df
 
