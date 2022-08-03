@@ -101,7 +101,7 @@ jobs:
           path: ${{ github.workspace }}/build/reports/pluginVerifier
 
       - name: Make space for next tasks
-        run: rm -r "~/.pluginVerifier/ides"
+        run: rm -r ~/.pluginVerifier/ides
 
       - run: df
 
