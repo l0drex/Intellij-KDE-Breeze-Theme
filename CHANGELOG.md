@@ -3,6 +3,16 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Changed
+- Updated files from template repo
+
+### Removed
+- Images in plugin description
+
+### Added
+- Split-view image in readme, outside the description
+
+## [0.3.2]
 ### Fixed
 - Add support for latest release
 - Fix selection color being the same as background color of symbol under caret
