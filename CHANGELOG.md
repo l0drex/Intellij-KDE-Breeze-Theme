@@ -3,6 +3,9 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+
+## [0.3.3] - 2023-01-01
+
 ### Changed
 - Updated files from template repo
 
@@ -13,24 +16,29 @@
 - Split-view image in readme, outside the description
 
 ## [0.3.2]
+
 ### Fixed
 - Add support for latest release
 - Fix selection color being the same as background color of symbol under caret
 
 ## [0.3.1]
+
 ### Fixed
 - Overlapping icons in some tool windows
 
 ## [0.3.0]
+
 ### Added
 - Custom icons for light and dark theme
 - Support for newest IDE version
 
 ## [0.2.1]
+
 ### Changed
 - Support for newest version
 
 ## [0.2.0]
+
 ### Added
 - Light editor scheme
 - Dark editor scheme
@@ -39,6 +47,7 @@
 - Updated some colors to those actually used in plasma
 
 ## [0.1.0]
+
 ### Added
 - Implementation of plugins view
 - Implementation of tables
@@ -50,16 +59,17 @@
 - Improved background of marked files / directories in project overview
 
 ## [0.0.3]
+
 ### Changed
 - Support for newest version of IDE
 - Updated dependencies
-  
 
 ### Fixed
 - Background of excluded folders is now darker for better readability in dark theme
 - Button background gradient in dark theme is now more visible
 
 ## [0.0.2] - 2021-04-20
+
 ### Added
 - Plugin Icon
 
@@ -67,7 +77,20 @@
 - Plugin description
 
 ## [0.0.1] - 2021-04-19
+
 ### Added
 - Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
 - Added Breeze Light UI theme
 - Added Breeze Dark UI theme
+
+[Unreleased]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.3...HEAD
+[0.3.3]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.2...v0.3.3
+[0.3.2]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.1...v0.3.2
+[0.3.1]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.0...v0.3.1
+[0.3.0]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.2.1...v0.3.0
+[0.2.1]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.2.0...v0.2.1
+[0.2.0]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.1.0...v0.2.0
+[0.1.0]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.0.3...v0.1.0
+[0.0.3]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.0.2...v0.0.3
+[0.0.2]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.0.1...v0.0.2
+[0.0.1]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/commits/v0.0.1
