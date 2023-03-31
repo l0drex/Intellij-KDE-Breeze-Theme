@@ -3,6 +3,11 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Changed
+- Updated files from template repo
+
+### Fixed
+- Removed trailing slashes (@alevalv)
 
 ## [0.3.3] - 2023-01-01
 
