@@ -3,6 +3,9 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+
+## [0.3.4] - 2023-03-31
+
 ### Changed
 - Updated files from template repo
 
@@ -88,7 +91,8 @@
 - Added Breeze Light UI theme
 - Added Breeze Dark UI theme
 
-[Unreleased]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.3...HEAD
+[Unreleased]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.4...HEAD
+[0.3.4]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.3...v0.3.4
 [0.3.3]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.2...v0.3.3
 [0.3.2]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.1...v0.3.2
 [0.3.1]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.0...v0.3.1
