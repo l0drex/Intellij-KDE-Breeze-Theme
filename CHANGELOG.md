@@ -3,6 +3,8 @@
 # Intellij-KDE-Breeze-Theme Changelog
 
 ## [Unreleased]
+### Changed
+- Update template to 1.6.0
 
 ## [0.3.4] - 2023-03-31
 
