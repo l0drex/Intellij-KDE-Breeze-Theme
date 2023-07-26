@@ -15,6 +15,10 @@ It consists of the
 These themes include styling of the UI and the editor as well as custom icons.
 
 Feel free to leave a review on https://plugins.jetbrains.com/plugin/16605-kde-breeze-theme/reviews.
+
+> Pro-tip: Use the [Auto Dark Mode Plugin](https://plugins.jetbrains.com/plugin/14076-auto-dark-mode/) to automatically
+> switch between the light and dark theme on linux.
+
 <!-- Plugin description end -->
 
 ## Installation
