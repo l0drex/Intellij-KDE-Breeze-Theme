@@ -12,4 +12,9 @@
         <themeProvider id="edd71330-1a5d-43d4-94ea-b06063eab123" path="/Breeze_Dark.theme.json"/>
         <themeProvider id="a4451a8a-0823-4d90-85bd-8ceb56a6638d" path="/Breeze_Light.theme.json"/>
     </extensions>
+
+    <applicationListeners>
+        <listener class="com.github.l0drex.intellijkdebreezetheme.listeners.AppStartListener"
+                  topic="com.intellij.openapi.startup.ProjectActivity"/>
+    </applicationListeners>
 </idea-plugin>
