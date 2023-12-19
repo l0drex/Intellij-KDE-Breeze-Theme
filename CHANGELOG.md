@@ -4,7 +4,7 @@
 
 ## [Unreleased]
 ### Changed
-- Updated template to 1.11.0
+- Updated template to 1.11.3
 
 ## [0.3.5] - 2023-07-27
 
