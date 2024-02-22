@@ -4,6 +4,10 @@
 
 ## [Unreleased]
 
+### Changed
+
+- Update template to 1.12.0
+
 ## [0.3.6] - 2023-12-19
 
 ### Changed
