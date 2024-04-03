@@ -6,7 +6,7 @@
 
 ### Changed
 
-- Update template to 1.12.0
+- Update template to 1.13.0
 
 ## [0.3.6] - 2023-12-19
 
