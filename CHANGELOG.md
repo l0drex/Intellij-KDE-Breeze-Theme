@@ -4,7 +4,7 @@
 
 ## [Unreleased]
 
-- Update template to 1.14.1
+- Update template to 1.14.2
 
 ## [0.3.7] - 2024-04-10
 
