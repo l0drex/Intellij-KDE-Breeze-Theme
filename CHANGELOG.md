@@ -4,8 +4,6 @@
 
 ## [Unreleased]
 
-## v1.0.0
-
 ### Changed
 
 - Update to template v2.0.2
