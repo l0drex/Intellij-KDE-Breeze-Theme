@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+## v1.0.0
+
+### Changed
+
+- Update to template v2.0.2
+
 ## [0.3.9] - 2024-11-25
 
 The theme is out now for long enough, so let's release 1.0!
