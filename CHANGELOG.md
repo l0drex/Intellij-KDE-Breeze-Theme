@@ -4,7 +4,10 @@
 
 ## [Unreleased]
 
-- Update template to 1.14.2
+## [0.3.9] - 2024-11-25
+
+The theme is out now for long enough, so let's release 1.0!
+No big changes though.
 
 ## [0.3.7] - 2024-04-10
 
@@ -129,7 +132,8 @@
 - Added Breeze Light UI theme
 - Added Breeze Dark UI theme
 
-[Unreleased]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.7...HEAD
+[Unreleased]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.9...HEAD
+[0.3.9]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.7...v0.3.9
 [0.3.7]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.6...v0.3.7
 [0.3.6]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.5...v0.3.6
 [0.3.5]: https://github.com/l0drex/Intellij-KDE-Breeze-Theme/compare/v0.3.4...v0.3.5
