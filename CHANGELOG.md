@@ -4,6 +4,12 @@
 
 ## [Unreleased]
 
+## Changed
+
+- Removed up-to version constraint, so no updates without changes are necessary
+
+## [1.0.0] - 2024-11-30
+
 ### Changed
 
 - Update to template v2.0.2
