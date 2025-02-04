@@ -4,7 +4,7 @@
 
 ## [Unreleased]
 
-## Changed
+### Changed
 
 - Removed up-to version constraint, so no updates without changes are necessary
 
